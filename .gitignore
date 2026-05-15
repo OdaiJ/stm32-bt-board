@@ -1,0 +1,7 @@
+# txt files that keep track of the changes since last commit
+# making it easier to write and push comprehensive commit messages in shaa' Allah
+commit-helper.txt
+commit-message.txt
+
+# rendered markdown
+todo.html
