@@ -646,7 +646,7 @@
         "uuid": "9ab97115-0b3b-4897-8d44-f79e27c270d1"
       }
     ],
-    "used_designators": "#PWR21,#PWR24,R1-2,C18",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -657,6 +657,10 @@
     [
       "647642cc-3894-4f8c-9e36-c4f1abaf1fd9",
       "Microcontroller"
+    ],
+    [
+      "5ee7caa4-bcee-4f11-b707-877fa3e5f3cb",
+      "USB and Power"
     ]
   ],
   "text_variables": {},
