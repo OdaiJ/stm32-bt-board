@@ -596,6 +596,48 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S3.3",
+          "name": "KLC_S3.3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.1",
+          "name": "KLC_S4.1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part Number",
+          "name": "Manufacturer Part Number",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Distributor Link",
+          "name": "Distributor Link",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -646,7 +688,7 @@
         "uuid": "9ab97115-0b3b-4897-8d44-f79e27c270d1"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#FLG2,R9,D3,#PWR11",
     "variants": []
   },
   "sheets": [
@@ -660,7 +702,31 @@
     ],
     [
       "5ee7caa4-bcee-4f11-b707-877fa3e5f3cb",
-      "USB and Power"
+      "Power"
+    ],
+    [
+      "d94d5ba1-0797-4eee-9895-46a2ab85f907",
+      "USB"
+    ],
+    [
+      "86cfeb55-c06d-4865-8ab4-5787a673d384",
+      "Micellaneous"
+    ],
+    [
+      "da535f4e-2fd5-4575-a3c9-f11d4baaaa04",
+      "Crystals"
+    ],
+    [
+      "387be5c2-c06a-4ce1-b441-93a813b84222",
+      "RF Front End"
+    ],
+    [
+      "7fdb0ce2-4a42-4e1c-846b-496894e633a2",
+      "Decoupling Capacitors"
+    ],
+    [
+      "7e89fd45-16bf-40be-b66f-70430621f2bb",
+      "SMPS"
     ]
   ],
   "text_variables": {},

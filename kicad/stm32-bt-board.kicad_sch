@@ -6,30 +6,30 @@
 	(paper "A4")
 	(title_block
 		(title "STM32 BT Tutorial Board")
-		(date "2026-05-15")
+		(date "2026-05-27")
 		(rev "1.0")
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols)
 	(wire
 		(pts
-			(xy 139.7 102.87) (xy 152.4 102.87)
+			(xy 167.64 90.17) (xy 193.04 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "143b220d-9393-4dc7-9dc5-3e31f4c081a5")
+		(uuid "3b7b31c3-f1ea-4a12-b458-916f2bc5a9a8")
 	)
 	(wire
 		(pts
-			(xy 139.7 100.33) (xy 152.4 100.33)
+			(xy 167.64 87.63) (xy 193.04 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fff99d3e-58b0-4e35-bac3-67fd248575cd")
+		(uuid "587a3826-594c-4c3a-826b-117e45ad9948")
 	)
 	(image
 		(at 148.59 29.21)
@@ -1733,7 +1733,7 @@
 		)
 	)
 	(sheet
-		(at 101.6 76.2)
+		(at 66.04 85.09)
 		(size 38.1 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1747,8 +1747,8 @@
 			(color 111 117 255 1)
 		)
 		(uuid "5ee7caa4-bcee-4f11-b707-877fa3e5f3cb")
-		(property "Sheetname" "USB and Power"
-			(at 101.6 74.676 0)
+		(property "Sheetname" "Power"
+			(at 66.04 83.566 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1760,8 +1760,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "usb.kicad_sch"
-			(at 101.6 127.5846 0)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 66.04 136.4746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1769,28 +1769,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
-			)
-		)
-		(pin "USB_D+" bidirectional
-			(at 139.7 102.87 0)
-			(uuid "eec1f559-8942-48a7-b391-1ed04530f00f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(color 0 0 0 1)
-				)
-				(justify right)
-			)
-		)
-		(pin "USB_D-" bidirectional
-			(at 139.7 100.33 0)
-			(uuid "ff85aa69-d2c7-4f23-8724-a796f30ae3a3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(color 0 0 0 1)
-				)
-				(justify right)
 			)
 		)
 		(instances
@@ -1802,7 +1780,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 76.2)
+		(at 193.04 85.09)
 		(size 38.1 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1817,7 +1795,7 @@
 		)
 		(uuid "647642cc-3894-4f8c-9e36-c4f1abaf1fd9")
 		(property "Sheetname" "Microcontroller"
-			(at 152.4 74.676 0)
+			(at 193.04 83.566 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1830,7 +1808,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 152.4 127.5846 0)
+			(at 193.04 136.4746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1841,7 +1819,7 @@
 			)
 		)
 		(pin "USB_D+" bidirectional
-			(at 152.4 102.87 180)
+			(at 193.04 90.17 180)
 			(uuid "0bafd921-151a-4b0b-b034-a1257b7d577e")
 			(effects
 				(font
@@ -1852,7 +1830,7 @@
 			)
 		)
 		(pin "USB_D-" bidirectional
-			(at 152.4 100.33 180)
+			(at 193.04 87.63 180)
 			(uuid "abe694cb-d67d-482f-ae33-9773f48aec3a")
 			(effects
 				(font
@@ -1866,6 +1844,74 @@
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 85.09)
+		(size 38.1 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 141 255 49 1)
+		)
+		(uuid "d94d5ba1-0797-4eee-9895-46a2ab85f907")
+		(property "Sheetname" "USB"
+			(at 129.54 83.8634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.3 2.3)
+					(thickness 0.46)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 129.54 136.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 167.64 90.17 0)
+			(uuid "b8b7cf8c-30d6-49ac-be91-bb3158508004")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 167.64 87.63 0)
+			(uuid "1b671e48-5b0f-47e6-a936-6b93d192792e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "stm32-bt-board"
+				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1"
+					(page "4")
 				)
 			)
 		)
