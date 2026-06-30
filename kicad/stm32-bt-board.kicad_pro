@@ -244,7 +244,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "lib_symbol_mismatch|1511300|1155700|8e71abdf-344c-44dd-8c8e-59907272b989|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -450,7 +455,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -497,6 +502,55 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "GND",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "PWR",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "RF",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "SMPS",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "SWD",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "UART",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -504,7 +558,36 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "PWR",
+        "pattern": "+*"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "SWD",
+        "pattern": "*/SWD*"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "*/USB*"
+      },
+      {
+        "netclass": "RF",
+        "pattern": "*/RF*"
+      },
+      {
+        "netclass": "SMPS",
+        "pattern": "*/SMPS*"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "*/UART*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -688,7 +771,7 @@
         "uuid": "9ab97115-0b3b-4897-8d44-f79e27c270d1"
       }
     ],
-    "used_designators": "#FLG2,R9,D3,#PWR11",
+    "used_designators": "R10-11,J5,#FLG3-4,#PWR13,#PWR26,#PWR42-45,U5",
     "variants": []
   },
   "sheets": [
@@ -702,11 +785,11 @@
     ],
     [
       "5ee7caa4-bcee-4f11-b707-877fa3e5f3cb",
-      "Power"
+      "LDO"
     ],
     [
-      "d94d5ba1-0797-4eee-9895-46a2ab85f907",
-      "USB"
+      "0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728",
+      "Connectors"
     ],
     [
       "86cfeb55-c06d-4865-8ab4-5787a673d384",
@@ -727,6 +810,18 @@
     [
       "7e89fd45-16bf-40be-b66f-70430621f2bb",
       "SMPS"
+    ],
+    [
+      "e6e5b388-18a0-444d-846c-ffc05907a441",
+      "SWD"
+    ],
+    [
+      "361c8e35-3db7-4e84-96f3-a18e08b55d73",
+      "UART"
+    ],
+    [
+      "c2feafe3-3b01-47cd-90f7-3df5f000a0f3",
+      "USB Type C"
     ]
   ],
   "text_variables": {},

@@ -460,8 +460,8 @@
 		)
 	)
 	(rectangle
-		(start 101.6 85.09)
-		(end 172.72 109.22)
+		(start 88.9 86.36)
+		(end 175.26 109.22)
 		(stroke
 			(width 0)
 			(type default)
@@ -473,7 +473,7 @@
 	)
 	(text "SMPS"
 		(exclude_from_sim no)
-		(at 101.6 83.82 0)
+		(at 88.9 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -560,7 +560,7 @@
 		)
 		(uuid "f69cdca0-11d0-464a-a193-e92ee07951e6")
 	)
-	(label "SMPSLXL"
+	(label "SMPS_LXL"
 		(at 129.54 93.98 0)
 		(effects
 			(font
@@ -570,7 +570,7 @@
 		)
 		(uuid "a3d23028-1cd7-4172-9f47-98984829012d")
 	)
-	(hierarchical_label "SMPSFB"
+	(hierarchical_label "SMPS_OUT"
 		(shape output)
 		(at 162.56 93.98 0)
 		(effects
@@ -581,7 +581,7 @@
 		)
 		(uuid "2958b441-2c75-4290-9a4c-92b0efc6d535")
 	)
-	(hierarchical_label "SMPSLX"
+	(hierarchical_label "SMPS_SWITCH_NODE"
 		(shape input)
 		(at 111.76 93.98 180)
 		(effects
@@ -713,10 +713,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "cee1f952-cad5-49bc-9631-ca9e27f522e8")
+			(uuid "2d665e41-4061-4f01-aa2f-e845263600fe")
 		)
 		(pin "1"
-			(uuid "ee54479e-c54f-4cbd-aae5-6adefbe91b1a")
+			(uuid "8fd758e8-876f-42e3-aa32-32ada2f08f33")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -850,10 +850,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2d3d6b73-6d69-42d0-b59e-93b6d4f49f34")
+			(uuid "a3e8b288-ea60-4db0-8ca9-42a5cd66fe38")
 		)
 		(pin "1"
-			(uuid "ece62c94-3064-4d16-a68a-ef3d38034e0d")
+			(uuid "9a2c8ee4-6f6b-4953-8a62-7b835588bffe")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -985,10 +985,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fab3f1e8-8505-4b1d-938d-26a88bf296b9")
+			(uuid "6e60b977-abb2-4faa-b907-faf7e35c25e5")
 		)
 		(pin "2"
-			(uuid "cae0c3f9-203f-4104-b304-213ba1ce21f8")
+			(uuid "a6d04772-2ede-4206-b6aa-24235997b1b7")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1067,7 +1067,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7e4de961-4df9-4d53-a609-64fb43d73cf6")
+			(uuid "7be3ef93-7bf3-4e12-8337-bea6d52708c8")
 		)
 		(instances
 			(project "stm32-bt-board"

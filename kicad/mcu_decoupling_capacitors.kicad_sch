@@ -421,7 +421,7 @@
 		)
 	)
 	(rectangle
-		(start 69.85 82.55)
+		(start 68.58 83.82)
 		(end 223.52 125.73)
 		(stroke
 			(width 0)
@@ -496,7 +496,7 @@
 	)
 	(text "Decoupling Capacitors"
 		(exclude_from_sim no)
-		(at 69.85 81.28 0)
+		(at 68.58 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1337,7 +1337,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d32d8a51-8d2c-4f5a-9457-02034499eb17")
+			(uuid "a9cd3415-328c-4643-b8d3-566090ebbf48")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1471,10 +1471,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "25c22f0d-ca65-4ef3-ad96-738c1355bcc2")
+			(uuid "382b0295-224e-47a8-97c7-70a80824a741")
 		)
 		(pin "2"
-			(uuid "6bb4a0c0-4111-404e-b16b-3c85f9b42190")
+			(uuid "ce26ec8b-1af6-4feb-afb9-900bd51b2e19")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1608,10 +1608,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c2064d31-5fb5-4dcc-b8ed-9439eba7181a")
+			(uuid "91bf226c-cd9b-41a4-a329-502eba6f9c39")
 		)
 		(pin "2"
-			(uuid "34660023-cc78-46eb-9340-ce754483c6e1")
+			(uuid "6f64c3e1-e283-4493-a252-7000bdea14d9")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1745,10 +1745,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4adfdd68-bd2d-44dc-b0f5-1120d2624da3")
+			(uuid "3a177418-5438-4b70-ba45-c0d23abc0b18")
 		)
 		(pin "2"
-			(uuid "cd4eac02-34db-48cb-99bf-60cd0a37bc46")
+			(uuid "405ed15a-f1e1-4043-9ff3-de4d44f769bc")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1882,10 +1882,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9e8594d1-0758-451c-901b-2d8546ab0a8f")
+			(uuid "a057fd54-1f25-492c-9caf-a0505059072b")
 		)
 		(pin "2"
-			(uuid "43ede5e5-d792-48a4-a0b6-cb804a7835a4")
+			(uuid "97f48211-82e5-43e8-bd1d-d00f73ac9138")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2019,10 +2019,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c040e798-d6d1-412e-85c1-91d5cef1135c")
+			(uuid "5fb5a956-1de5-4b7e-a707-7f4e3af23995")
 		)
 		(pin "2"
-			(uuid "c0c0e33a-8890-43d6-84c9-d50deb3767d4")
+			(uuid "68131d3e-bd85-481a-9833-c13bdacb5eff")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2100,7 +2100,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "deba5621-f7c5-41d1-b172-4b5e155baa46")
+			(uuid "2fe0e4e3-e7ff-41e4-926c-b3064dccb6a7")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2234,10 +2234,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "46b42c58-7079-43e0-b08c-742c8c1120c5")
+			(uuid "a2b5ddda-1f4e-44d4-b9c8-b7967bbdd867")
 		)
 		(pin "2"
-			(uuid "caa7454b-065c-4153-be76-67e888bb69d3")
+			(uuid "9be34340-c422-4e0e-b6b3-7c4b94b04529")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2371,10 +2371,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "86fcd137-00ad-4bd4-a2c1-3689ce7a86e8")
+			(uuid "8eb11920-e2ad-4c05-bec8-07ef701224d1")
 		)
 		(pin "2"
-			(uuid "36de0057-33bb-4cad-a730-0102ab04a523")
+			(uuid "827ec298-7af2-4717-95c9-f46b8da6e9a5")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2508,10 +2508,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "5d9df5be-70c3-4b89-9190-3b0939e6c9a4")
+			(uuid "1250002d-2da3-4be3-88a7-0f595f6bd0e8")
 		)
 		(pin "2"
-			(uuid "b5f5694d-8891-4f9e-9a24-d544672a5985")
+			(uuid "56936324-f5a6-42cf-a506-7599200c122b")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2645,10 +2645,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "5d649e3c-cbf9-4b6e-8877-c01d5d011805")
+			(uuid "9cd1e5af-1be0-4c52-b63b-7355af0881f6")
 		)
 		(pin "2"
-			(uuid "81e0e6ec-c108-4409-bed1-e5c42c0f849a")
+			(uuid "a0231d16-e69b-4992-b546-07b74272f0ed")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -2782,10 +2782,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fb13a6dd-1db6-4976-8236-4775d9017d30")
+			(uuid "1e8bfcf3-df3f-4076-a9f7-48f4a3f1883b")
 		)
 		(pin "2"
-			(uuid "c9b8b19f-e2a7-42e6-b212-a04b36047b1e")
+			(uuid "f5fa41d6-5218-43ef-ba77-ddf482a72dc6")
 		)
 		(instances
 			(project "stm32-bt-board"

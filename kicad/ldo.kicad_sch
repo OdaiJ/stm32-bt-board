@@ -1109,6 +1109,8 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
 			)
 			(justify left)
 		)
@@ -1328,7 +1330,7 @@
 		)
 		(uuid "fe6a4b6a-a110-400c-b9b9-3e560ca8ee97")
 	)
-	(label "IND_LED_CATHODE"
+	(label "3V3_LED_CATHODE"
 		(at 172.72 106.68 90)
 		(effects
 			(font

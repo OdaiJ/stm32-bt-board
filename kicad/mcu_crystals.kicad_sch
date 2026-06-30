@@ -754,7 +754,7 @@
 		)
 	)
 	(rectangle
-		(start 125.73 58.42)
+		(start 127 58.42)
 		(end 185.42 146.05)
 		(stroke
 			(width 0)
@@ -767,7 +767,7 @@
 	)
 	(text "HSE/LSE Crystals"
 		(exclude_from_sim no)
-		(at 125.984 57.15 0)
+		(at 127 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -812,7 +812,7 @@
 		)
 		(uuid "8a9687af-1d2f-4947-b2fa-4d8726e46647")
 	)
-	(text "OSC_IN is the oscillator's OUTPUT\ninput/output written on the mcu\nis WITH RESPECT TO THE MCU!\n\ninput/output wrtten on the crystal\nis WITH RESPEWCT TO THE CRYSTAL."
+	(text "OSC_HSE_IN is the oscillator's OUTPUT\ninput/output written on the mcu\nis WITH RESPECT TO THE MCU!\n\ninput/output wrtten on the crystal\nis WITH RESPEWCT TO THE CRYSTAL."
 		(exclude_from_sim no)
 		(at 154.178 46.228 0)
 		(effects
@@ -936,7 +936,7 @@
 	)
 	(polyline
 		(pts
-			(xy 125.73 101.6) (xy 185.42 101.6)
+			(xy 127 101.6) (xy 185.42 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1066,7 +1066,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5af9a2ed-6088-407a-a677-08816a65229d")
+			(uuid "0a662d60-53ad-408b-b4f5-96091e7801bc")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1198,10 +1198,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "106f577b-28f8-4020-8c08-9302d369c043")
+			(uuid "861044d7-2de4-4325-bf95-7d6d47e415d3")
 		)
 		(pin "1"
-			(uuid "257489af-0e13-4c3f-ba40-2b5f52480bfc")
+			(uuid "f117686e-a458-4102-abc5-d563301d7077")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1333,16 +1333,16 @@
 			)
 		)
 		(pin "1"
-			(uuid "d6ef386e-7009-4507-9b2e-90a1e1b7847f")
+			(uuid "a0e58f1c-e0e8-478f-87b4-b9b71ef6603b")
 		)
 		(pin "2"
-			(uuid "c2ade252-5986-4843-8781-05bcab5746e8")
+			(uuid "5e2265cf-09ab-49dd-a4a1-944403c734fe")
 		)
 		(pin "3"
-			(uuid "322ed1f0-8650-4791-b91f-f7e3776afdf4")
+			(uuid "83cfa90f-732e-41f2-a9df-cb796f7437dc")
 		)
 		(pin "4"
-			(uuid "1c0f71ff-f0c9-40ae-a52c-1444799d7e9c")
+			(uuid "010f81a4-8bd6-432b-8225-f9fffafbf167")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1421,7 +1421,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "5529c303-bc2c-4572-a326-5d6b3d0181ea")
+			(uuid "a7b59e33-9a8b-4dac-9842-8420ee6847e8")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1500,7 +1500,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "9ab3d781-c8e8-402f-bfd4-dd97ab16a1b7")
+			(uuid "798fd716-0999-4818-83b6-4e192c8e805b")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1634,10 +1634,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "912610c2-b420-46da-8919-159f4e78ed4c")
+			(uuid "f41b7d81-cdd1-4add-a940-9e7dbf1de27c")
 		)
 		(pin "2"
-			(uuid "d07297e7-4129-41a7-a5cb-c224aae2824a")
+			(uuid "8e3e82ea-7301-4412-8211-7bd2ad2e76e8")
 		)
 		(instances
 			(project "stm32-bt-board"
@@ -1771,10 +1771,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "a668aae7-87f8-4b87-bcec-08473417ff6a")
+			(uuid "8acb0a77-5ab3-426e-b7a6-de263a71a7d7")
 		)
 		(pin "2"
-			(uuid "b9eda7d6-9c01-4d0c-b524-488a576de00a")
+			(uuid "192e6c93-4fb3-42b4-984b-a098d76501b6")
 		)
 		(instances
 			(project "stm32-bt-board"

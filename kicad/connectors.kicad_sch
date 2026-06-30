@@ -1,0 +1,426 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "6d4343d6-9863-431d-8466-1fb0003f89bf")
+	(paper "A4")
+	(title_block
+		(date "2026-05-27")
+		(rev "1.0")
+		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
+	)
+	(lib_symbols)
+	(arc
+		(start 148.336 81.534)
+		(mid 148.4104 81.3544)
+		(end 148.59 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "eda81cd5-cb9b-4ed2-807d-7400956d970c")
+	)
+	(wire
+		(pts
+			(xy 121.92 86.36) (xy 129.54 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1af2e0b1-f7ce-45ea-91e5-6b334292ecd8")
+	)
+	(wire
+		(pts
+			(xy 35.56 86.36) (xy 43.18 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fd25647-19d9-4c55-8c43-d7d19e510d58")
+	)
+	(wire
+		(pts
+			(xy 35.56 88.9) (xy 43.18 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b9e4651-a0f5-4428-94d8-9e2aa926572d")
+	)
+	(wire
+		(pts
+			(xy 175.26 86.36) (xy 167.64 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cdf83e7-d4d5-4cb9-97ee-bc8e3d3264ba")
+	)
+	(wire
+		(pts
+			(xy 167.64 88.9) (xy 175.26 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92f2747a-a9ce-4ed1-be88-1b3c82c299b8")
+	)
+	(wire
+		(pts
+			(xy 121.92 88.9) (xy 129.54 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa8aa33e-d318-44f3-bf8f-8a3b19a41933")
+	)
+	(wire
+		(pts
+			(xy 210.82 86.36) (xy 218.44 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfc606bb-1bf0-4dbe-ac7c-84af0f9b46ec")
+	)
+	(wire
+		(pts
+			(xy 264.16 86.36) (xy 256.54 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e656dcc1-26af-4e5e-bd6b-6436f8669e4f")
+	)
+	(hierarchical_label "SWDIO"
+		(shape bidirectional)
+		(at 121.92 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4a3badde-2091-43a0-8b39-25f88da92ba9")
+	)
+	(hierarchical_label "UART_RX"
+		(shape input)
+		(at 210.82 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "65d1b9a7-6be3-49ed-87b2-48941f813b68")
+	)
+	(hierarchical_label "UART_TX"
+		(shape output)
+		(at 264.16 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7f62a199-0f94-4346-9e5b-c5b1f650cc3e")
+	)
+	(hierarchical_label "SWNRST"
+		(shape output)
+		(at 175.26 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "86390f9b-cd87-4a2c-b764-554490d5c166")
+	)
+	(hierarchical_label "USB_D-"
+		(shape bidirectional)
+		(at 35.56 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "92077f31-36d4-4d61-a848-d7edf5f0e9ea")
+	)
+	(hierarchical_label "SWCLK"
+		(shape output)
+		(at 175.26 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b086534-ccc4-4eb6-85c9-cb375aa6faf3")
+	)
+	(hierarchical_label "USB_D+"
+		(shape bidirectional)
+		(at 35.56 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa6865f5-e430-47d6-bc10-65396566dc85")
+	)
+	(hierarchical_label "SWO"
+		(shape input)
+		(at 121.92 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e24d6a76-12b9-47b0-830b-726001fee860")
+	)
+	(sheet
+		(at 218.44 83.82)
+		(size 38.1 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 233 93 1)
+		)
+		(uuid "361c8e35-3db7-4e84-96f3-a18e08b55d73")
+		(property "Sheetname" "UART"
+			(at 218.44 82.5934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.3 2.3)
+					(thickness 0.46)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors_uart.kicad_sch"
+			(at 218.44 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "RX" input
+			(at 218.44 86.36 180)
+			(uuid "bd68771d-de70-4372-81e5-45eb0d3f69d2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX" output
+			(at 256.54 86.36 0)
+			(uuid "fc87b0f7-ca6e-4446-89e9-8b3c987a69bc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "stm32-bt-board"
+				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 83.82)
+		(size 38.1 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 94 53 1)
+		)
+		(uuid "c2feafe3-3b01-47cd-90f7-3df5f000a0f3")
+		(property "Sheetname" "USB Type C"
+			(at 43.18 82.5934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.3 2.3)
+					(thickness 0.46)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors_usb_c.kicad_sch"
+			(at 43.18 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 43.18 86.36 180)
+			(uuid "95e956d5-a886-4751-a5b2-1ef82369ff13")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 43.18 88.9 180)
+			(uuid "c48929eb-535b-4c1a-9bc0-c356710c61ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "stm32-bt-board"
+				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 83.82)
+		(size 38.1 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 158 138 255 1)
+		)
+		(uuid "e6e5b388-18a0-444d-846c-ffc05907a441")
+		(property "Sheetname" "SWD"
+			(at 129.54 82.5934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 2.3 2.3)
+					(thickness 0.46)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors_swd.kicad_sch"
+			(at 129.54 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SWCLK" output
+			(at 167.64 86.36 0)
+			(uuid "636a56c8-cd72-4a2d-8c06-f4f39bb691d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(pin "SWDIO" bidirectional
+			(at 129.54 86.36 180)
+			(uuid "ca1a6304-8c3b-4a9f-bf34-c0382990094c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWO" input
+			(at 129.54 88.9 180)
+			(uuid "ded28e5d-8cc6-4634-8683-95e64c58cf31")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWNRST" output
+			(at 167.64 88.9 0)
+			(uuid "9b83d719-b619-4b98-a074-df9ab9329dbb")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 0 0 0 1)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "stm32-bt-board"
+				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728"
+					(page "10")
+				)
+			)
+		)
+	)
+)
