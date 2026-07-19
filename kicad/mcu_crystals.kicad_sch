@@ -1534,7 +1534,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10p"
 			(at 167.64 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
