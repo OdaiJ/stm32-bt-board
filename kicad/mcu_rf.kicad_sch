@@ -5,8 +5,9 @@
 	(uuid "dabb681d-9512-4f11-8c81-98912ef9694d")
 	(paper "A4")
 	(title_block
-		(date "2026-05-27")
+		(date "2026-06-30")
 		(rev "1.0")
+		(comment 3 "Author: Odai J.")
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols
@@ -803,7 +804,7 @@
 	)
 	(rectangle
 		(start 88.9 76.2)
-		(end 194.31 118.11)
+		(end 198.12 118.11)
 		(stroke
 			(width 0)
 			(type default)
@@ -860,7 +861,13 @@
 		(uuid "a7545a0a-e1ac-4461-b1d3-41ba8eda058f")
 	)
 	(junction
-		(at 151.13 104.14)
+		(at 124.46 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a25f6cf-4154-4592-997a-dd5b33e4397f")
+	)
+	(junction
+		(at 156.21 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8bfa274f-4f3b-453e-a31c-78f8bf0a6557")
@@ -870,12 +877,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9fe3cbb1-b4c1-4139-8048-8dcdd97ff6ce")
-	)
-	(junction
-		(at 124.46 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a81e7621-ac0c-4bc3-bbc7-1441f3856501")
 	)
 	(wire
 		(pts
@@ -899,7 +900,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 100.33) (xy 151.13 104.14)
+			(xy 156.21 100.33) (xy 156.21 104.14)
 		)
 		(stroke
 			(width 0)
@@ -919,7 +920,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 148.59 104.14)
+			(xy 153.67 100.33) (xy 153.67 104.14)
 		)
 		(stroke
 			(width 0)
@@ -939,7 +940,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 104.14) (xy 151.13 107.95)
+			(xy 156.21 104.14) (xy 156.21 107.95)
 		)
 		(stroke
 			(width 0)
@@ -949,7 +950,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 93.98) (xy 170.18 93.98)
+			(xy 165.1 93.98) (xy 175.26 93.98)
 		)
 		(stroke
 			(width 0)
@@ -959,7 +960,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 104.14) (xy 151.13 104.14)
+			(xy 153.67 104.14) (xy 156.21 104.14)
 		)
 		(stroke
 			(width 0)
@@ -969,7 +970,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 99.06) (xy 175.26 107.95)
+			(xy 180.34 99.06) (xy 180.34 107.95)
 		)
 		(stroke
 			(width 0)
@@ -979,7 +980,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 93.98) (xy 139.7 93.98)
+			(xy 124.46 93.98) (xy 144.78 93.98)
 		)
 		(stroke
 			(width 0)
@@ -998,7 +999,7 @@
 		(uuid "e1fc527a-f301-4dc6-b407-d82d8022fc96")
 	)
 	(label "RF_ANT"
-		(at 162.56 93.98 0)
+		(at 167.64 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1011,7 +1012,7 @@
 		(at 134.62 93.98 0)
 		(effects
 			(font
-				(size 0.508 0.508)
+				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
@@ -1030,7 +1031,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 175.26 107.95 0)
+		(at 180.34 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1040,8 +1041,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "040a2cf2-f70a-48c0-b139-b5809dd94a04")
-		(property "Reference" "#PWR05"
-			(at 175.26 114.3 0)
+		(property "Reference" "#PWR07"
+			(at 180.34 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1052,7 +1053,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 175.26 113.03 0)
+			(at 180.34 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1063,7 +1064,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 107.95 0)
+			(at 180.34 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1074,7 +1075,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 107.95 0)
+			(at 180.34 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1085,7 +1086,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 175.26 107.95 0)
+			(at 180.34 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1101,7 +1102,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/387be5c2-c06a-4ce1-b441-93a813b84222"
-					(reference "#PWR05")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -1119,7 +1120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04672271-1486-4567-b360-1a5862f5761b")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR05"
 			(at 124.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -1180,7 +1181,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/387be5c2-c06a-4ce1-b441-93a813b84222"
-					(reference "#PWR03")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -1188,7 +1189,7 @@
 	)
 	(symbol
 		(lib_id "#odaij_RF_Filter:TDK_DLF162500LT-5028A1")
-		(at 149.86 93.98 0)
+		(at 154.94 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1199,7 +1200,7 @@
 		(fields_autoplaced yes)
 		(uuid "31c654b9-3557-449f-96dd-ece4dde3334a")
 		(property "Reference" "FL1"
-			(at 149.86 85.09 0)
+			(at 154.94 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1209,7 +1210,7 @@
 			)
 		)
 		(property "Value" "TDK_DLF162500LT-5028A1"
-			(at 149.86 87.63 0)
+			(at 154.94 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1219,7 +1220,7 @@
 			)
 		)
 		(property "Footprint" "#odaij_RF_Filter:TDK_DLF162500LT-5028A1"
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1230,7 +1231,7 @@
 			)
 		)
 		(property "Datasheet" "https://product.tdk.com/en/system/files/dam/doc/product/rf/rf/filter/catalog/rf_lpf_dlf162500lt-5028a1_en.pdf"
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1241,7 +1242,7 @@
 			)
 		)
 		(property "Description" "Multilayer Low Pass Filter For 2400-2500MHz"
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1252,7 +1253,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1263,7 +1264,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1274,7 +1275,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1285,7 +1286,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1296,7 +1297,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 149.86 93.98 0)
+			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1339,7 +1340,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "716462aa-3f8b-4f6e-a5e5-629e64e369bd")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR04"
 			(at 106.68 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -1400,7 +1401,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/387be5c2-c06a-4ce1-b441-93a813b84222"
-					(reference "#PWR02")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -1418,7 +1419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9016d364-7e95-45e3-9d23-7edd7869cb9b")
-		(property "Reference" "C14"
+		(property "Reference" "C12"
 			(at 110.49 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1537,7 +1538,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/387be5c2-c06a-4ce1-b441-93a813b84222"
-					(reference "C14")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -1545,7 +1546,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 151.13 107.95 0)
+		(at 156.21 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1555,8 +1556,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96e56bac-918b-4ea5-9f63-a64d26d68314")
-		(property "Reference" "#PWR04"
-			(at 151.13 114.3 0)
+		(property "Reference" "#PWR06"
+			(at 156.21 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1567,7 +1568,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 113.03 0)
+			(at 156.21 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1578,7 +1579,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 107.95 0)
+			(at 156.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1589,7 +1590,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 107.95 0)
+			(at 156.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1600,7 +1601,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 107.95 0)
+			(at 156.21 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1616,7 +1617,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/387be5c2-c06a-4ce1-b441-93a813b84222"
-					(reference "#PWR04")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -1634,7 +1635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db403949-257f-42d0-9a36-83f6181c2758")
-		(property "Reference" "C15"
+		(property "Reference" "C13"
 			(at 128.27 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1753,7 +1754,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/387be5c2-c06a-4ce1-b441-93a813b84222"
-					(reference "C15")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -1896,7 +1897,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 175.26 93.98 0)
+		(at 180.34 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1907,7 +1908,7 @@
 		(fields_autoplaced yes)
 		(uuid "eedea2ce-2477-47ec-b8c8-1d3fd1339bb5")
 		(property "Reference" "J1"
-			(at 179.07 93.0031 0)
+			(at 184.15 93.0031 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1918,7 +1919,7 @@
 			)
 		)
 		(property "Value" "Conn_Coaxial"
-			(at 179.07 95.5431 0)
+			(at 184.15 95.5431 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1929,7 +1930,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1940,7 +1941,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1951,7 +1952,7 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1962,7 +1963,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1973,7 +1974,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1984,7 +1985,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1995,7 +1996,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2006,7 +2007,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" ""
-			(at 175.26 93.98 0)
+			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

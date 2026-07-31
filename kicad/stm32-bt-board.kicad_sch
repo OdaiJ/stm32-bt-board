@@ -6,8 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "STM32 BT Tutorial Board")
-		(date "2026-05-27")
+		(date "2026-06-30")
 		(rev "1.0")
+		(comment 3 "Author: Odai J.")
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols)
@@ -1809,7 +1810,7 @@
 		)
 		(uuid "f83dd8fe-9081-4a20-a000-e725675a33b9")
 	)
-	(text "+3V3"
+	(text "+3V3_LDO"
 		(exclude_from_sim no)
 		(at 88.9 91.44 0)
 		(effects
@@ -1821,6 +1822,32 @@
 			(justify left)
 		)
 		(uuid "7e57bb28-3233-43ba-b1ef-06e545abb189")
+	)
+	(text "+3V3"
+		(exclude_from_sim no)
+		(at 165.1 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "7f614c79-1627-48e7-be4b-98cc39db5e9d")
+	)
+	(text "+3V3"
+		(exclude_from_sim no)
+		(at 251.46 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+		(uuid "8b3821af-7009-449c-bfb5-1558f8ae736b")
 	)
 	(text "TODO:\n- assign footprints\n- finish page setup (A4, title, github repo link)\n- table of contents? block diagram? feeling fancy\n- 3V3_UART, and 3V3_SWD along with 0 ohm resistors for better netnames?"
 		(exclude_from_sim no)
@@ -1835,7 +1862,7 @@
 		)
 		(uuid "8b715d7b-10a9-44ca-92de-a740d74b7554")
 	)
-	(text "+5V"
+	(text "+5V_USB"
 		(exclude_from_sim no)
 		(at 45.72 91.44 0)
 		(effects
@@ -1847,6 +1874,32 @@
 			(justify right)
 		)
 		(uuid "a64f0ef0-6653-49cb-ae17-c5bfb96defcc")
+	)
+	(text "+3V3_SWD"
+		(exclude_from_sim no)
+		(at 170.18 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "b3b00d20-5e11-4bde-8a57-62aa62c28446")
+	)
+	(text "+5V"
+		(exclude_from_sim no)
+		(at 170.18 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "c485813b-e2ce-4791-ac66-70faf3d66971")
 	)
 	(polyline
 		(pts
@@ -2060,6 +2113,16 @@
 	)
 	(polyline
 		(pts
+			(xy 251.46 88.9) (xy 251.46 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21dfd516-e196-4675-b05c-8f776b0cad69")
+	)
+	(polyline
+		(pts
 			(xy -151848.5687 -151848.5687) (xy -151848.5687 -151848.5687)
 		)
 		(stroke
@@ -2097,6 +2160,16 @@
 			(type default)
 		)
 		(uuid "251671ad-0cfc-43cb-8751-8b9d2b20baf6")
+	)
+	(polyline
+		(pts
+			(xy 165.1 88.9) (xy 165.1 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2895330e-4996-4db8-b63d-a4e45b442984")
 	)
 	(polyline
 		(pts
@@ -2560,6 +2633,16 @@
 	)
 	(polyline
 		(pts
+			(xy 167.64 93.98) (xy 170.18 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85586039-33c9-4d94-acf1-a26cd04942f0")
+	)
+	(polyline
+		(pts
 			(xy -151848.5687 -151848.5687) (xy -151848.5687 -151848.5687)
 		)
 		(stroke
@@ -2940,6 +3023,16 @@
 	)
 	(polyline
 		(pts
+			(xy 170.18 91.44) (xy 167.64 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "effa7cb5-4299-4f3b-97dc-ff25ab49fa1d")
+	)
+	(polyline
+		(pts
 			(xy -151848.5687 -151848.5687) (xy -151848.5687 -151848.5687)
 		)
 		(stroke
@@ -3302,7 +3395,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1"
-					(page "4")
+					(page "9")
 				)
 			)
 		)
@@ -3349,7 +3442,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1"
-					(page "3")
+					(page "8")
 				)
 			)
 		)

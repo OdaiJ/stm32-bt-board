@@ -603,7 +603,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -771,7 +771,7 @@
         "uuid": "9ab97115-0b3b-4897-8d44-f79e27c270d1"
       }
     ],
-    "used_designators": "R10-11,J5,#FLG3-4,#PWR13,#PWR26,#PWR42-45,U5",
+    "used_designators": "J1-4,#FLG1-2,R1-11,C1-21,D1-3,L1-3,SW1-2,X1-2,FL1,U1-4,#PWR1-39",
     "variants": []
   },
   "sheets": [
@@ -784,6 +784,26 @@
       "Microcontroller"
     ],
     [
+      "7e89fd45-16bf-40be-b66f-70430621f2bb",
+      "SMPS"
+    ],
+    [
+      "387be5c2-c06a-4ce1-b441-93a813b84222",
+      "RF Front End"
+    ],
+    [
+      "da535f4e-2fd5-4575-a3c9-f11d4baaaa04",
+      "Crystals"
+    ],
+    [
+      "7fdb0ce2-4a42-4e1c-846b-496894e633a2",
+      "Decoupling Capacitors"
+    ],
+    [
+      "86cfeb55-c06d-4865-8ab4-5787a673d384",
+      "Micellaneous"
+    ],
+    [
       "5ee7caa4-bcee-4f11-b707-877fa3e5f3cb",
       "LDO"
     ],
@@ -792,24 +812,8 @@
       "Connectors"
     ],
     [
-      "86cfeb55-c06d-4865-8ab4-5787a673d384",
-      "Micellaneous"
-    ],
-    [
-      "da535f4e-2fd5-4575-a3c9-f11d4baaaa04",
-      "Crystals"
-    ],
-    [
-      "387be5c2-c06a-4ce1-b441-93a813b84222",
-      "RF Front End"
-    ],
-    [
-      "7fdb0ce2-4a42-4e1c-846b-496894e633a2",
-      "Decoupling Capacitors"
-    ],
-    [
-      "7e89fd45-16bf-40be-b66f-70430621f2bb",
-      "SMPS"
+      "c2feafe3-3b01-47cd-90f7-3df5f000a0f3",
+      "USB Type C"
     ],
     [
       "e6e5b388-18a0-444d-846c-ffc05907a441",
@@ -818,10 +822,6 @@
     [
       "361c8e35-3db7-4e84-96f3-a18e08b55d73",
       "UART"
-    ],
-    [
-      "c2feafe3-3b01-47cd-90f7-3df5f000a0f3",
-      "USB Type C"
     ]
   ],
   "text_variables": {},

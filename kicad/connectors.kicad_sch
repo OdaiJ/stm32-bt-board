@@ -5,8 +5,9 @@
 	(uuid "6d4343d6-9863-431d-8466-1fb0003f89bf")
 	(paper "A4")
 	(title_block
-		(date "2026-05-27")
+		(date "2026-06-30")
 		(rev "1.0")
+		(comment 3 "Author: Odai J.")
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols)
@@ -22,6 +23,42 @@
 			(type none)
 		)
 		(uuid "eda81cd5-cb9b-4ed2-807d-7400956d970c")
+	)
+	(text "+5V_USB"
+		(exclude_from_sim no)
+		(at 83.82 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "31110b35-c7ba-4dad-bd05-a6cdd84b9a2f")
+	)
+	(text "+3V3_SWD"
+		(exclude_from_sim no)
+		(at 170.18 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "ba8b7ce5-c92a-40ac-9745-5a34dfbb18e6")
+	)
+	(polyline
+		(pts
+			(xy 81.28 86.36) (xy 83.82 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00fee274-d61a-4488-8253-a4f8be49cf53")
 	)
 	(wire
 		(pts
@@ -55,7 +92,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 86.36) (xy 167.64 86.36)
+			(xy 175.26 93.98) (xy 167.64 93.98)
 		)
 		(stroke
 			(width 0)
@@ -63,9 +100,19 @@
 		)
 		(uuid "5cdf83e7-d4d5-4cb9-97ee-bc8e3d3264ba")
 	)
+	(polyline
+		(pts
+			(xy 167.64 86.36) (xy 170.18 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f101e71-f6b4-41a1-8b65-4f2f55ab4f34")
+	)
 	(wire
 		(pts
-			(xy 167.64 88.9) (xy 175.26 88.9)
+			(xy 167.64 96.52) (xy 175.26 96.52)
 		)
 		(stroke
 			(width 0)
@@ -138,7 +185,7 @@
 	)
 	(hierarchical_label "SWNRST"
 		(shape output)
-		(at 175.26 88.9 0)
+		(at 175.26 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -160,7 +207,7 @@
 	)
 	(hierarchical_label "SWCLK"
 		(shape output)
-		(at 175.26 86.36 0)
+		(at 175.26 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -256,7 +303,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728"
-					(page "11")
+					(page "12")
 				)
 			)
 		)
@@ -326,7 +373,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728"
-					(page "12")
+					(page "10")
 				)
 			)
 		)
@@ -372,7 +419,7 @@
 			)
 		)
 		(pin "SWCLK" output
-			(at 167.64 86.36 0)
+			(at 167.64 93.98 0)
 			(uuid "636a56c8-cd72-4a2d-8c06-f4f39bb691d4")
 			(effects
 				(font
@@ -405,7 +452,7 @@
 			)
 		)
 		(pin "SWNRST" output
-			(at 167.64 88.9 0)
+			(at 167.64 96.52 0)
 			(uuid "9b83d719-b619-4b98-a074-df9ab9329dbb")
 			(effects
 				(font
@@ -418,7 +465,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728"
-					(page "10")
+					(page "11")
 				)
 			)
 		)

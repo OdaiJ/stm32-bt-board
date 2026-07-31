@@ -5,8 +5,9 @@
 	(uuid "21609055-dd1d-4419-b737-fd6f7cda48d6")
 	(paper "A4")
 	(title_block
-		(date "2026-05-27")
+		(date "2026-06-30")
 		(rev "1.0")
+		(comment 3 "Author: Odai J.")
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols
@@ -1011,7 +1012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f129d896-fc2c-4ca8-941c-cddb7d59b0d1")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR03"
 			(at 158.75 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -1072,7 +1073,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/647642cc-3894-4f8c-9e36-c4f1abaf1fd9/7e89fd45-16bf-40be-b66f-70430621f2bb"
-					(reference "#PWR014")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)

@@ -5,8 +5,9 @@
 	(uuid "6d4343d6-9863-431d-8466-1fb0003f89bf")
 	(paper "A4")
 	(title_block
-		(date "2026-05-27")
+		(date "2026-06-30")
 		(rev "1.0")
+		(comment 3 "Author: Odai J.")
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols
@@ -1352,7 +1353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22c1b586-25f9-4c79-ab65-c64608eb9800")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR023"
 			(at 142.24 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -1413,7 +1414,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "#PWR030")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -1431,7 +1432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4adf4901-a459-42c2-a278-af62d446669b")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 142.24 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1557,7 +1558,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -1575,7 +1576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66265a06-8df9-47e4-95ab-9551cee9286d")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR022"
 			(at 123.19 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -1636,7 +1637,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "#PWR032")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -1929,7 +1930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7b4d8aa-0c31-4626-8166-3194c46ab466")
-		(property "Reference" "R8"
+		(property "Reference" "R7"
 			(at 175.26 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2048,7 +2049,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "R8")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -2066,7 +2067,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d875b909-fe5a-4f20-a7aa-7944a16971e2")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR024"
 			(at 161.29 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2127,7 +2128,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "#PWR031")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -2145,7 +2146,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da488c42-644b-43dd-bb48-afc6503173c0")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR021"
 			(at 177.8 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2205,7 +2206,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "#PWR039")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -2223,7 +2224,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddf591fa-540c-4a5a-b19d-cf15b88c7602")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 176.53 95.5674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2353,7 +2354,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -2371,7 +2372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb1adfcf-7776-4ae0-bfec-ca41bcaca418")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR020"
 			(at 115.57 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -2431,7 +2432,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "#PWR027")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -2449,7 +2450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edfc6728-6127-42a3-a61c-18b89f8425a3")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR025"
 			(at 172.72 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2510,7 +2511,7 @@
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/5ee7caa4-bcee-4f11-b707-877fa3e5f3cb"
-					(reference "#PWR041")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
