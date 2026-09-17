@@ -1281,7 +1281,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 146.05 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1305,6 +1305,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 146.05 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor" ""
+			(at 146.05 80.01 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1372,7 +1383,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C891748.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcXlVQRFddVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFBXUFJeQ08GEwkK"
 			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1383,7 +1394,7 @@
 				)
 			)
 		)
-		(property "Description" "Two pin crystal"
+		(property "Description" "CRYSTAL 32.768kHz SMD"
 			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1416,7 +1427,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C891748.html?s_z=s_p_NX2012SA-32.768KHZ-STD-MUB-2&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcXlVQRFddVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFBXUFJeQ08GEwkK"
 			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1438,7 +1449,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "NX2012SA-32.768KHZ-STD-MUB-2"
+		(property "Distributor" "LCSC"
+			(at 156.21 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "NX2012SA-32.768KHZ-STD-MUB-2"
 			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1507,7 +1529,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5441424.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcXlVeQlNWUDtW"
 			(at 156.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1518,7 +1540,7 @@
 				)
 			)
 		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4"
+		(property "Description" "CRYSTAL 32MHz 8pF SMD"
 			(at 156.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1573,7 +1595,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "NX2016SA-32MHZ-EXS00A-CS06654"
+		(property "Distributor" "LCSC"
+			(at 156.21 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "NX2016SA-32MHZ-EXS00A-CS06654"
 			(at 156.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1874,7 +1907,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" ""
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2011,7 +2044,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" ""
 			(at 148.59 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2069,7 +2102,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 143.51 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -2093,6 +2126,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 143.51 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor" ""
+			(at 143.51 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

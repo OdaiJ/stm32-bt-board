@@ -1812,7 +1812,7 @@
 	)
 	(text "+3V3_LDO"
 		(exclude_from_sim no)
-		(at 88.9 91.44 0)
+		(at 167.64 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1825,7 +1825,7 @@
 	)
 	(text "+3V3"
 		(exclude_from_sim no)
-		(at 165.1 86.36 0)
+		(at 81.915 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1838,7 +1838,7 @@
 	)
 	(text "+3V3"
 		(exclude_from_sim no)
-		(at 251.46 86.36 0)
+		(at 254 92.075 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1864,7 +1864,7 @@
 	)
 	(text "+5V_USB"
 		(exclude_from_sim no)
-		(at 45.72 91.44 0)
+		(at 124.46 84.455 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1877,7 +1877,7 @@
 	)
 	(text "+3V3_SWD"
 		(exclude_from_sim no)
-		(at 170.18 93.98 0)
+		(at 86.995 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1890,7 +1890,7 @@
 	)
 	(text "+5V"
 		(exclude_from_sim no)
-		(at 170.18 91.44 0)
+		(at 89.535 93.345 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1973,7 +1973,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 111.76) (xy 129.54 111.76)
+			(xy 38.735 114.3) (xy 46.355 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2113,7 +2113,7 @@
 	)
 	(polyline
 		(pts
-			(xy 251.46 88.9) (xy 251.46 86.36)
+			(xy 250.825 94.615) (xy 250.825 92.075)
 		)
 		(stroke
 			(width 0)
@@ -2133,7 +2133,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 101.6) (xy 254 101.6)
+			(xy 260.985 107.315) (xy 253.365 107.315)
 		)
 		(stroke
 			(width 0)
@@ -2143,7 +2143,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 111.76) (xy 215.9 111.76)
+			(xy 207.645 117.475) (xy 215.265 117.475)
 		)
 		(stroke
 			(width 0)
@@ -2153,7 +2153,7 @@
 	)
 	(polyline
 		(pts
-			(xy 45.72 91.44) (xy 48.26 91.44)
+			(xy 124.46 85.725) (xy 127 85.725)
 		)
 		(stroke
 			(width 0)
@@ -2163,7 +2163,7 @@
 	)
 	(polyline
 		(pts
-			(xy 165.1 88.9) (xy 165.1 86.36)
+			(xy 81.915 91.44) (xy 81.915 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2180,6 +2180,16 @@
 			(type solid)
 		)
 		(uuid "3402ad17-d21a-489f-92b9-41744ebbfcb1")
+	)
+	(polyline
+		(pts
+			(xy 88.9 85.725) (xy 88.9 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34709c4c-f34e-45a7-89b3-a39a383b1d2a")
 	)
 	(polyline
 		(pts
@@ -2203,7 +2213,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 101.6) (xy 129.54 101.6)
+			(xy 38.735 104.14) (xy 46.355 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2213,7 +2223,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 101.6) (xy 215.9 101.6)
+			(xy 210.185 107.315) (xy 215.265 107.315)
 		)
 		(stroke
 			(width 0)
@@ -2413,7 +2423,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 93.98) (xy 215.9 93.98)
+			(xy 207.645 99.695) (xy 215.265 99.695)
 		)
 		(stroke
 			(width 0)
@@ -2433,7 +2443,7 @@
 	)
 	(polyline
 		(pts
-			(xy 86.36 91.44) (xy 88.9 91.44)
+			(xy 165.1 85.725) (xy 167.64 85.725)
 		)
 		(stroke
 			(width 0)
@@ -2443,7 +2453,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 104.14) (xy 129.54 104.14)
+			(xy 38.735 106.68) (xy 46.355 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2563,7 +2573,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 104.14) (xy 175.26 104.14)
+			(xy 84.455 106.68) (xy 92.075 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2583,7 +2593,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 91.44) (xy 129.54 91.44)
+			(xy 38.735 93.98) (xy 46.355 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2600,6 +2610,16 @@
 			(type solid)
 		)
 		(uuid "7aa39717-3498-46dc-adfd-6f50f241d939")
+	)
+	(polyline
+		(pts
+			(xy 250.825 85.725) (xy 250.825 92.075)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ad3ef09-9a33-43d2-8517-dadd0cc2778c")
 	)
 	(polyline
 		(pts
@@ -2633,7 +2653,7 @@
 	)
 	(polyline
 		(pts
-			(xy 167.64 93.98) (xy 170.18 93.98)
+			(xy 84.455 96.52) (xy 86.995 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2653,7 +2673,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 111.76) (xy 175.26 111.76)
+			(xy 84.455 114.3) (xy 92.075 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2663,7 +2683,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 111.76) (xy 254 111.76)
+			(xy 260.985 117.475) (xy 253.365 117.475)
 		)
 		(stroke
 			(width 0)
@@ -2730,6 +2750,16 @@
 			(type solid)
 		)
 		(uuid "93276186-6b4e-4741-a340-513d9a320dac")
+	)
+	(polyline
+		(pts
+			(xy 124.46 85.725) (xy 88.9 85.725)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99b06404-7c22-40f7-a7d1-60604d079a6d")
 	)
 	(polyline
 		(pts
@@ -2803,6 +2833,16 @@
 	)
 	(polyline
 		(pts
+			(xy 88.9 93.98) (xy 86.995 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0473261-9c37-4fcf-bdc2-84ea99cc76dd")
+	)
+	(polyline
+		(pts
 			(xy -151848.5687 -151848.5687) (xy -151848.5687 -151848.5687)
 		)
 		(stroke
@@ -2863,7 +2903,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 101.6) (xy 175.26 101.6)
+			(xy 84.455 104.14) (xy 92.075 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2890,6 +2930,16 @@
 			(type solid)
 		)
 		(uuid "bd080ec6-ba02-425d-a955-0f7454638a31")
+	)
+	(polyline
+		(pts
+			(xy 167.64 85.725) (xy 250.825 85.725)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0376a33-f100-4a02-88d9-18c71a6175a7")
 	)
 	(polyline
 		(pts
@@ -2943,7 +2993,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 91.44) (xy 215.9 91.44)
+			(xy 207.645 97.155) (xy 215.265 97.155)
 		)
 		(stroke
 			(width 0)
@@ -2983,7 +3033,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 104.14) (xy 215.9 104.14)
+			(xy 210.185 109.855) (xy 215.265 109.855)
 		)
 		(stroke
 			(width 0)
@@ -2993,7 +3043,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 93.98) (xy 129.54 93.98)
+			(xy 38.735 96.52) (xy 46.355 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3023,7 +3073,7 @@
 	)
 	(polyline
 		(pts
-			(xy 170.18 91.44) (xy 167.64 91.44)
+			(xy 86.995 93.98) (xy 84.455 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3102,7 +3152,7 @@
 		(uuid "ffa68abf-1c73-47aa-83f1-4d3e5045d7df")
 	)
 	(label "SWD_SWO"
-		(at 261.62 101.6 0)
+		(at 260.985 107.315 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3112,7 +3162,7 @@
 		(uuid "04e9fda7-37af-429e-a172-e3dd4b15aa4a")
 	)
 	(label "UART_MCU_RX"
-		(at 175.26 111.76 0)
+		(at 92.075 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3122,7 +3172,7 @@
 		(uuid "167b0d6d-7e26-454a-896c-a1393692514a")
 	)
 	(label "USB_D-"
-		(at 121.92 93.98 180)
+		(at 38.735 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3132,7 +3182,7 @@
 		(uuid "1e35d121-fc49-4a8a-a5c3-32b012509cc8")
 	)
 	(label "UART_MCU_RX"
-		(at 208.28 111.76 180)
+		(at 207.645 117.475 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3142,7 +3192,7 @@
 		(uuid "40250506-fab2-4818-a0fc-5133681aefde")
 	)
 	(label "UART_MCU_TX"
-		(at 121.92 111.76 180)
+		(at 38.735 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3152,7 +3202,7 @@
 		(uuid "6f31ae22-76d7-4696-b1c8-264963f09291")
 	)
 	(label "SWD_SWCLK"
-		(at 210.82 101.6 180)
+		(at 210.185 107.315 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3162,7 +3212,7 @@
 		(uuid "9aee0d9d-fb03-4d00-8ce3-cac6c48c7a36")
 	)
 	(label "SWD_SWDIO"
-		(at 121.92 101.6 180)
+		(at 38.735 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3172,7 +3222,7 @@
 		(uuid "bf5dcd43-dc0e-4052-ae0c-e0ae3629fc2e")
 	)
 	(label "UART_MCU_TX"
-		(at 261.62 111.76 0)
+		(at 260.985 117.475 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3182,7 +3232,7 @@
 		(uuid "cf1ee84f-b1b0-47ab-9527-828ad3bc60b6")
 	)
 	(label "USB_D-"
-		(at 208.28 93.98 180)
+		(at 207.645 99.695 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3192,7 +3242,7 @@
 		(uuid "d5e8c13a-e1b9-47cb-9b1e-41928e616fc5")
 	)
 	(label "SWD_SWCLK"
-		(at 175.26 101.6 0)
+		(at 92.075 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3202,7 +3252,7 @@
 		(uuid "dca7409b-a75e-4ad1-a8ae-c41ffb0126e3")
 	)
 	(label "SWD_SWDIO"
-		(at 210.82 104.14 180)
+		(at 210.185 109.855 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3212,7 +3262,7 @@
 		(uuid "e9723916-d5bc-4eaf-be6e-f14d977fc0c4")
 	)
 	(label "USB_D+"
-		(at 208.28 91.44 180)
+		(at 207.645 97.155 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3222,7 +3272,7 @@
 		(uuid "f3ca5566-d1ab-4308-aa6d-a2fc1df27793")
 	)
 	(label "USB_D+"
-		(at 121.92 91.44 180)
+		(at 38.735 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3232,7 +3282,7 @@
 		(uuid "f76f226c-b353-4499-b2a4-3c98e4e8b16a")
 	)
 	(label "SWD_SWO"
-		(at 121.92 104.14 180)
+		(at 38.735 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3243,7 +3293,7 @@
 	)
 	(global_label "NRST_IN"
 		(shape output)
-		(at 175.26 104.14 0)
+		(at 92.075 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3253,7 +3303,7 @@
 		)
 		(uuid "31070b84-ad25-4e03-a4d0-297aba6cf5d1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 185.9257 104.14 0)
+			(at 102.7407 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3266,7 +3316,7 @@
 		)
 	)
 	(sheet
-		(at 129.54 88.9)
+		(at 46.355 91.44)
 		(size 38.1 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3281,7 +3331,7 @@
 		)
 		(uuid "0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728")
 		(property "Sheetname" "Connectors"
-			(at 129.54 87.376 0)
+			(at 46.355 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3294,7 +3344,7 @@
 			)
 		)
 		(property "Sheetfile" "connectors.kicad_sch"
-			(at 129.54 140.2846 0)
+			(at 46.355 142.8246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3305,7 +3355,7 @@
 			)
 		)
 		(pin "SWCLK" output
-			(at 167.64 101.6 0)
+			(at 84.455 104.14 0)
 			(uuid "6b8a5fe5-238f-42b0-a59b-b3a710aee06a")
 			(effects
 				(font
@@ -3316,7 +3366,7 @@
 			)
 		)
 		(pin "SWDIO" bidirectional
-			(at 129.54 101.6 180)
+			(at 46.355 104.14 180)
 			(uuid "8e239f51-3bfb-4dc5-97fc-510120832d0a")
 			(effects
 				(font
@@ -3327,7 +3377,7 @@
 			)
 		)
 		(pin "SWO" input
-			(at 129.54 104.14 180)
+			(at 46.355 106.68 180)
 			(uuid "480b344c-ad3d-48f2-a70f-ea598b239445")
 			(effects
 				(font
@@ -3338,7 +3388,7 @@
 			)
 		)
 		(pin "UART_RX" input
-			(at 129.54 111.76 180)
+			(at 46.355 114.3 180)
 			(uuid "0f01c23f-b28b-4e76-b8b1-0ea1b3a84d23")
 			(effects
 				(font
@@ -3349,7 +3399,7 @@
 			)
 		)
 		(pin "UART_TX" output
-			(at 167.64 111.76 0)
+			(at 84.455 114.3 0)
 			(uuid "d1da4634-5bb3-40e1-ae2f-7fe83de9897d")
 			(effects
 				(font
@@ -3360,7 +3410,7 @@
 			)
 		)
 		(pin "USB_D+" bidirectional
-			(at 129.54 91.44 180)
+			(at 46.355 93.98 180)
 			(uuid "4c826eab-40cd-4139-aa96-3f329294d288")
 			(effects
 				(font
@@ -3371,7 +3421,7 @@
 			)
 		)
 		(pin "USB_D-" bidirectional
-			(at 129.54 93.98 180)
+			(at 46.355 96.52 180)
 			(uuid "bb571778-f743-4dee-9f0b-39ea14090b47")
 			(effects
 				(font
@@ -3382,7 +3432,7 @@
 			)
 		)
 		(pin "SWNRST" output
-			(at 167.64 104.14 0)
+			(at 84.455 106.68 0)
 			(uuid "de8dffa1-97d5-4c90-96dc-6c7405b315be")
 			(effects
 				(font
@@ -3401,7 +3451,7 @@
 		)
 	)
 	(sheet
-		(at 48.26 88.9)
+		(at 127 83.185)
 		(size 38.1 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3416,7 +3466,7 @@
 		)
 		(uuid "5ee7caa4-bcee-4f11-b707-877fa3e5f3cb")
 		(property "Sheetname" "LDO"
-			(at 48.26 87.376 0)
+			(at 127 81.661 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3429,7 +3479,7 @@
 			)
 		)
 		(property "Sheetfile" "ldo.kicad_sch"
-			(at 48.26 140.2846 0)
+			(at 127 134.5696 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3448,7 +3498,7 @@
 		)
 	)
 	(sheet
-		(at 215.9 88.9)
+		(at 215.265 94.615)
 		(size 38.1 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3463,7 +3513,7 @@
 		)
 		(uuid "647642cc-3894-4f8c-9e36-c4f1abaf1fd9")
 		(property "Sheetname" "Microcontroller"
-			(at 215.9 87.376 0)
+			(at 215.265 93.091 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3476,7 +3526,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 215.9 140.2846 0)
+			(at 215.265 145.9996 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3487,7 +3537,7 @@
 			)
 		)
 		(pin "USB_D+" bidirectional
-			(at 215.9 91.44 180)
+			(at 215.265 97.155 180)
 			(uuid "0bafd921-151a-4b0b-b034-a1257b7d577e")
 			(effects
 				(font
@@ -3498,7 +3548,7 @@
 			)
 		)
 		(pin "USB_D-" bidirectional
-			(at 215.9 93.98 180)
+			(at 215.265 99.695 180)
 			(uuid "abe694cb-d67d-482f-ae33-9773f48aec3a")
 			(effects
 				(font
@@ -3509,7 +3559,7 @@
 			)
 		)
 		(pin "UART_RX" input
-			(at 215.9 111.76 180)
+			(at 215.265 117.475 180)
 			(uuid "1358317d-98f5-4253-ba9d-f7183cb4994c")
 			(effects
 				(font
@@ -3520,7 +3570,7 @@
 			)
 		)
 		(pin "UART_TX" output
-			(at 254 111.76 0)
+			(at 253.365 117.475 0)
 			(uuid "ce379a43-fc8d-49e4-8ecb-4bd9af4cccbe")
 			(effects
 				(font
@@ -3531,7 +3581,7 @@
 			)
 		)
 		(pin "SWO" output
-			(at 254 101.6 0)
+			(at 253.365 107.315 0)
 			(uuid "e48db09e-1237-44cf-b2ed-396ba3c9a5d3")
 			(effects
 				(font
@@ -3542,7 +3592,7 @@
 			)
 		)
 		(pin "SWDIO" bidirectional
-			(at 215.9 104.14 180)
+			(at 215.265 109.855 180)
 			(uuid "4cc3fb3b-4087-4585-bc28-b226c00dd560")
 			(effects
 				(font
@@ -3553,7 +3603,7 @@
 			)
 		)
 		(pin "SWCLK" input
-			(at 215.9 101.6 180)
+			(at 215.265 107.315 180)
 			(uuid "09e39753-146f-47d3-85ea-15c016f59886")
 			(effects
 				(font

@@ -1274,7 +1274,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C531364.html?s_z=s_p_DLF162500LT-5028A1&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1JQQVRbVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVldVVFfWQkaCgg%3D"
 			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1285,7 +1285,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "TDK"
 			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1296,7 +1296,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 154.94 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "DLF162500LT-5028A1"
 			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1441,7 +1452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 107.6452 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1452,7 +1463,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C76988.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RFZeBFxfRgVYUFRXRFhXUVRVQQJeUAdXQ1FaBAZQEgAxVlNRTlheXldWQlFYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1463,7 +1474,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.8pF 50V C0G 0402"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1518,7 +1529,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "GRM1555C1HR80BA01D"
+		(property "Distributor" "LCSC"
+			(at 106.68 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1555C1HR80BA01D"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1657,7 +1679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.4252 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1668,7 +1690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C92338.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RFZeBFxfRgVYUFRXRFhXUVRVQQJeUAdXQ1FaBAZQEgAxVlNRTlheXldQT1JbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 124.46 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1679,7 +1701,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.3pF 50V C0G 0402"
 			(at 124.46 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1734,7 +1756,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "GRM1555C1HR30WA01D"
+		(property "Distributor" "LCSC"
+			(at 124.46 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1555C1HR30WA01D"
 			(at 124.46 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -1792,7 +1825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 115.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1803,7 +1836,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77108.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RFZeBFxfRgVYUFRXRFhXUVRVQQJeUAdXQ1FaBAZQEgAxVlNRTlheXlBXRFFfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 115.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1814,7 +1847,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FIXED IND 2.7nH 800mA 120mΩ 0402"
 			(at 115.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1869,7 +1902,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "LQG15HS2N7S02D"
+		(property "Distributor" "LCSC"
+			(at 115.57 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQG15HS2N7S02D"
 			(at 115.57 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -2006,7 +2050,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" ""
 			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)

@@ -1383,7 +1383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 188.9252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1394,7 +1394,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 187.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1405,7 +1405,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 187.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1438,7 +1438,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 187.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1449,7 +1449,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 187.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1460,7 +1460,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 187.96 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 187.96 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1520,7 +1531,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 163.5252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1531,7 +1542,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1542,7 +1553,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1575,7 +1586,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1586,7 +1597,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1597,7 +1608,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 162.56 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 162.56 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1657,7 +1679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 125.4252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1668,7 +1690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 124.46 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1679,7 +1701,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 124.46 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1712,7 +1734,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 124.46 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1723,7 +1745,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 124.46 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1734,7 +1756,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 124.46 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 124.46 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1794,7 +1827,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 112.7252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1805,7 +1838,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1816,7 +1849,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1849,7 +1882,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1860,7 +1893,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1871,7 +1904,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 111.76 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 111.76 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1931,7 +1975,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 176.2252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -1942,7 +1986,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C307467.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 175.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1953,7 +1997,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 4.7uF 35V X5R 0603"
 			(at 175.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1986,7 +2030,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C307467.html?spm=wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 175.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -1997,7 +2041,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 175.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2008,7 +2052,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 175.26 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 175.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2146,7 +2201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 87.3252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2157,7 +2212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C307467.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2168,7 +2223,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 4.7uF 35V X5R 0603"
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2201,7 +2256,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C307467.html?spm=wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2212,7 +2267,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2223,7 +2278,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2283,7 +2349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 201.6252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2294,7 +2360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 200.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2305,7 +2371,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 200.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2338,7 +2404,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 200.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2349,7 +2415,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 200.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2360,7 +2426,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 200.66 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 200.66 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2420,7 +2497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 150.8252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2431,7 +2508,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 149.86 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2442,7 +2519,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 149.86 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2475,7 +2552,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 149.86 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2486,7 +2563,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 149.86 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2497,7 +2574,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 149.86 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 149.86 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2557,7 +2645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 100.0252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2568,7 +2656,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 99.06 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2579,7 +2667,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 99.06 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2612,7 +2700,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 99.06 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2623,7 +2711,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 99.06 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2634,7 +2722,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 99.06 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 99.06 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2694,7 +2793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 138.1252 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2705,7 +2804,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 137.16 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2716,7 +2815,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 137.16 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2749,7 +2848,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 137.16 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2760,7 +2859,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 137.16 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -2771,7 +2870,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 137.16 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 137.16 100.33 0)
 			(hide yes)
 			(show_name no)

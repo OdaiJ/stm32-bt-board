@@ -930,7 +930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 161.29 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -941,7 +941,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60474.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 161.29 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -952,7 +952,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 100nF 16V X7R 0402"
 			(at 161.29 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -985,7 +985,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60474.html?s_z=s_p_CC0402KRX7R7BB104&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcUFdQQFNXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlVcSQwSGg0%3D"
 			(at 161.29 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -996,7 +996,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 161.29 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1007,7 +1007,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 161.29 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R7BB104"
 			(at 161.29 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -1223,7 +1234,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" ""
 			(at 157.48 101.6 0)
 			(hide yes)
 			(show_name no)

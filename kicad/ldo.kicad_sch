@@ -1507,7 +1507,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C626098.html?s_z=n_q_MIC5365-3.3YD5&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcXlNTQFVfUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1518,7 +1518,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "MICROCHIP"
 			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1529,7 +1529,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 142.24 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MIC5365-3.3YD5-TR"
 			(at 142.24 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1678,7 +1689,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 160.3248 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1689,7 +1700,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C307467.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 161.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1700,7 +1711,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 4.7uF 35V X5R 0603"
 			(at 161.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1733,7 +1744,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C307467.html?spm=wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 161.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1744,7 +1755,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 161.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1755,7 +1766,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 161.29 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 161.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1815,7 +1837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 124.1552 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -1826,7 +1848,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C307467.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 123.19 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1837,7 +1859,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 4.7uF 35V X5R 0603"
 			(at 123.19 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1870,7 +1892,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C307467.html?spm=wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
 			(at 123.19 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1881,7 +1903,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 123.19 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1892,7 +1914,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 123.19 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 123.19 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -1952,7 +1985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 170.942 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -2029,7 +2062,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" ""
 			(at 172.72 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2246,7 +2279,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 172.72 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2257,7 +2290,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C511370.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.11.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlddVFRWQVdYUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktSRlNADxALGw%3D%3D"
 			(at 172.72 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2268,7 +2301,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "LED RED 0402 SMD"
 			(at 172.72 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -2312,7 +2345,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C511370.html?spm=wm.fly.bg.11.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlddVFRWQVdYUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktSRlNADxALGw%3D%3D"
 			(at 172.72 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -2323,7 +2356,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "VISHAY"
 			(at 172.72 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -2334,7 +2367,18 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" ""
+		(property "Distributor" "LCSC"
+			(at 172.72 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "VLMS1500-GS08"
 			(at 172.72 95.25 90)
 			(hide yes)
 			(show_name no)
