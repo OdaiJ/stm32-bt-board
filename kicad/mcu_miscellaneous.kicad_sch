@@ -1455,6 +1455,16 @@
 		)
 		(uuid "33a66487-8af5-40fb-8316-56aa7cf5d336")
 	)
+	(text "verify footprint"
+		(exclude_from_sim no)
+		(at 110.49 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "46214e55-3358-462b-bb5a-4dd7e8bed495")
+	)
 	(text "run mode by default.\nbootloader when pressed"
 		(exclude_from_sim no)
 		(at 167.894 92.202 0)
@@ -2609,7 +2619,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B3U-1000P"
 			(at 162.56 99.0599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2631,7 +2641,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C231329.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlZeVlJfTlNaVDtW"
 			(at 156.21 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2642,7 +2652,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "SWITCH TACTILE SPST 153gf SMD"
 			(at 161.29 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2675,7 +2685,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C231329.html?spm=wm.fly.bg.2.xh___wm.fly.tp.20.ml&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlZeVlJfTlNaVDtW"
 			(at 161.29 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -2686,7 +2696,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "OMRON"
 			(at 161.29 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -2697,7 +2707,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 161.29 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "B3U-1000P"
 			(at 161.29 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -3321,7 +3342,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "B3U-1000P"
 			(at 217.17 110.4899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3343,7 +3364,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C231329.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlZeVlJfTlNaVDtW"
 			(at 210.82 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3354,7 +3375,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "SWITCH TACTILE SPST 153gf SMD"
 			(at 215.9 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -3387,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C231329.html?spm=wm.fly.bg.2.xh___wm.fly.tp.20.ml&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlZeVlJfTlNaVDtW"
 			(at 215.9 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -3398,7 +3419,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "OMRON"
 			(at 215.9 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -3409,7 +3430,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 215.9 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "B3U-1000P"
 			(at 215.9 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -4014,7 +4046,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "VLMB1500-GS08"
 			(at 99.06 87.9474 90)
 			(show_name no)
 			(do_not_autoplace no)

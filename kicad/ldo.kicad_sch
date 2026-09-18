@@ -2268,7 +2268,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "VLMS1500-GS08"
 			(at 176.53 98.1074 90)
 			(show_name no)
 			(do_not_autoplace no)
