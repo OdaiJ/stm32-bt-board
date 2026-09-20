@@ -1234,7 +1234,7 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
 			(at 157.48 101.6 0)
 			(hide yes)
 			(show_name no)

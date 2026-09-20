@@ -11,7 +11,7 @@
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols
-		(symbol "Connector:USB_C_Receptacle_USB2.0_16P"
+		(symbol "#stm32-bt-board-external-symbols:2171790001"
 			(pin_names
 				(offset 1.016)
 			)
@@ -30,7 +30,7 @@
 					)
 				)
 			)
-			(property "Value" "USB_C_Receptacle_USB2.0_16P"
+			(property "Value" "2171790001"
 				(at 0 19.685 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -40,7 +40,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "#stm32-bt-board-external-footprints:2171790001"
 				(at 3.81 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -51,7 +51,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/217/217179/2171790001_sd.pdf?inline\\"
 				(at 3.81 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -62,7 +62,7 @@
 					)
 				)
 			)
-			(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(property "Description" "TYPE C 16 PIN TOP MOUNT SMT"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -95,7 +95,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_16P_0_0"
+			(symbol "2171790001_0_0"
 				(rectangle
 					(start -0.254 -17.78)
 					(end 0.254 -16.764)
@@ -207,7 +207,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_16P_0_1"
+			(symbol "2171790001_0_1"
 				(rectangle
 					(start -10.16 17.78)
 					(end 10.16 -17.78)
@@ -408,7 +408,7 @@
 					)
 				)
 			)
-			(symbol "USB_C_Receptacle_USB2.0_16P_1_1"
+			(symbol "2171790001_1_1"
 				(pin passive line
 					(at 0 -22.86 90)
 					(length 5.08)
@@ -2873,6 +2873,142 @@
 		)
 	)
 	(symbol
+		(lib_id "#stm32-bt-board-external-symbols:2171790001")
+		(at 127 88.9 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c89b6f9c-a07a-49c0-bc07-419aa9dd155f")
+		(property "Reference" "J2"
+			(at 127 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2171790001"
+			(at 127 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "#stm32-bt-board-external-footprints:2171790001"
+			(at 130.81 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/217/217179/2171790001_sd.pdf?inline\\"
+			(at 130.81 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "TYPE C 16 PIN TOP MOUNT SMT"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "B7"
+			(uuid "308db787-6a28-4a3b-aa17-742316015eff")
+		)
+		(pin "A4"
+			(uuid "675b1485-b8b8-471a-8404-8c2b6dda0d9c")
+		)
+		(pin "A12"
+			(uuid "73e38bbd-5c3c-443f-8afe-799c4562afa2")
+		)
+		(pin "B9"
+			(uuid "0b9b9307-b07d-46a3-a33a-0620165e21c4")
+		)
+		(pin "B1"
+			(uuid "0cd12885-279c-43cd-8323-0b9c906a2933")
+		)
+		(pin "A6"
+			(uuid "7ed3b1a4-4905-4c19-b49f-9c992beb2000")
+		)
+		(pin "B12"
+			(uuid "8b0de823-aee3-461b-9788-669983ac54db")
+		)
+		(pin "B4"
+			(uuid "7584b169-68ee-4b47-a8c7-f69bc719da0e")
+		)
+		(pin "A5"
+			(uuid "f1a713ec-44e3-4e72-9182-332b3bf4d3ac")
+		)
+		(pin "A8"
+			(uuid "a07c403d-a961-4e2b-b97e-e3ed40f5a4d6")
+		)
+		(pin "A9"
+			(uuid "50de814b-9982-49d7-9f28-24862d3d0b80")
+		)
+		(pin "B5"
+			(uuid "0a2754b7-ccd1-443a-99a8-9617f3c14a3c")
+		)
+		(pin "B8"
+			(uuid "438226e2-160b-4208-b86a-7f4f61b4d497")
+		)
+		(pin "A1"
+			(uuid "8178715b-5237-442c-a209-90144061bd62")
+		)
+		(pin "SH"
+			(uuid "27d7ef9e-c944-4ad6-a267-52c6ac4a9572")
+		)
+		(pin "A7"
+			(uuid "592ffaf0-1dee-4953-90fa-c5a7db078db2")
+		)
+		(pin "B6"
+			(uuid "e1e6b523-f8d8-4848-b144-7c2ac56b54f4")
+		)
+		(instances
+			(project "stm32-bt-board"
+				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728/c2feafe3-3b01-47cd-90f7-3df5f000a0f3"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 162.56 81.28 90)
 		(unit 1)
@@ -3159,197 +3295,6 @@
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728/c2feafe3-3b01-47cd-90f7-3df5f000a0f3"
 					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
-		(at 127 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f82cc472-15cf-416d-8882-796f682740a9")
-		(property "Reference" "J2"
-			(at 127 66.04 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2171790001"
-			(at 127 68.58 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/217/217179/2171790001_sd.pdf?inline\\"
-			(at 130.81 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "TYPE C 16 PIN TOP MOUNT SMT"
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3197684.html?spm=wm.fly.bg.10.xh___wm.fly.tp.2.ml&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1JQQVRbVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVldVVFfWQkaCgg%3D"
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "MOLEX"
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor" "LCSC"
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "2171790001"
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "A9"
-			(uuid "3a385fcf-5820-4a73-824e-93889a2e0c57")
-		)
-		(pin "A7"
-			(uuid "690dfa45-321f-4f5d-9f0d-57fc16c1a436")
-		)
-		(pin "B1"
-			(uuid "92978e69-1616-4299-8603-1c438a3806a3")
-		)
-		(pin "A1"
-			(uuid "8536a82a-d552-405c-ab29-de913b7cfce4")
-		)
-		(pin "SH"
-			(uuid "a690d6b6-503d-452f-9aac-aec25cf6ac02")
-		)
-		(pin "B4"
-			(uuid "939889d2-bb2f-43f8-9d06-c4cead7becdf")
-		)
-		(pin "A5"
-			(uuid "c2df63a7-e5bb-4980-add6-40563c26c425")
-		)
-		(pin "B5"
-			(uuid "0d421268-b297-4bc0-888f-56f6470e592f")
-		)
-		(pin "A4"
-			(uuid "431b8e01-f809-4564-bd38-38ac4a987a65")
-		)
-		(pin "B7"
-			(uuid "69d581cd-2c20-433e-80bf-d8ce903bde62")
-		)
-		(pin "B8"
-			(uuid "3bfd180a-2204-4808-810d-54f487890cfc")
-		)
-		(pin "B12"
-			(uuid "43995371-972a-4948-825c-df30b4198edd")
-		)
-		(pin "A6"
-			(uuid "f6caccb4-5083-4999-82ac-b4260d3950e3")
-		)
-		(pin "A8"
-			(uuid "5ccb4359-2985-4492-8eba-7d71e5c817d1")
-		)
-		(pin "A12"
-			(uuid "eb889eb6-43e6-476b-a629-00688d8a580a")
-		)
-		(pin "B6"
-			(uuid "42e372f7-5a7a-433b-b5fb-025e3ebb060d")
-		)
-		(pin "B9"
-			(uuid "608d72d7-5f88-480e-be60-87b46b73674a")
-		)
-		(instances
-			(project "stm32-bt-board"
-				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728/c2feafe3-3b01-47cd-90f7-3df5f000a0f3"
-					(reference "J2")
 					(unit 1)
 				)
 			)

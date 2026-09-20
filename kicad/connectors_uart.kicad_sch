@@ -11,7 +11,7 @@
 		(comment 4 "GitHub: https://github.com/odaij/stm32-bt-board")
 	)
 	(lib_symbols
-		(symbol "Connector:Conn_01x04_Pin"
+		(symbol "#stm32-bt-board-external-symbols:S4B-PH-K-S(LF)(SN)"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x04_Pin"
+			(property "Value" "S4B-PH-K-S(LF)(SN)"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -41,7 +41,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "#stm32-bt-board-external-footprints:S4B-PH-K-S(LF)(SN)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -52,7 +52,7 @@
 					)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C157926.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTllXUl1SRlVdUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVJfVFZfWQkaCgg%3D"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -63,21 +63,11 @@
 					)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x04, script generated"
+			(property "Description" "CONN HEADER TH R/A 4POS 2mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -106,7 +96,7 @@
 					)
 				)
 			)
-			(symbol "Conn_01x04_Pin_1_1"
+			(symbol "S4B-PH-K-S(LF)(SN)_1_1"
 				(rectangle
 					(start 0.8636 2.667)
 					(end 0 2.413)
@@ -1428,7 +1418,7 @@
 		)
 	)
 	(rectangle
-		(start 101.6 76.2)
+		(start 97.79 76.2)
 		(end 199.39 115.57)
 		(stroke
 			(width 0)
@@ -2245,7 +2235,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
+		(lib_id "#stm32-bt-board-external-symbols:S4B-PH-K-S(LF)(SN)")
 		(at 109.22 101.6 0)
 		(unit 1)
 		(body_style 1)
@@ -2255,7 +2245,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7132a115-e307-4bff-9245-797aae0c288e")
+		(uuid "7e99fdd6-3d05-49bc-8768-c2995f588f07")
 		(property "Reference" "J4"
 			(at 109.855 93.98 0)
 			(show_name no)
@@ -2266,7 +2256,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x04_Pin"
+		(property "Value" "S4B-PH-K-S(LF)(SN)"
 			(at 109.855 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2276,7 +2266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "#stm32-bt-board-external-footprints:S4B-PH-K-S(LF)(SN)"
 			(at 109.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2287,7 +2277,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C157926.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTllXUl1SRlVdUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVJfVFZfWQkaCgg%3D"
 			(at 109.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2298,7 +2288,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
+		(property "Description" "CONN HEADER TH R/A 4POS 2mm"
 			(at 109.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2309,7 +2299,7 @@
 				)
 			)
 		)
-		(property "KLC_S3.3" ""
+		(property "Distributor" "LCSC"
 			(at 109.22 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2319,62 +2309,18 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "KLC_S4.1" ""
-			(at 109.22 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor Link" ""
-			(at 109.22 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 109.22 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Distributor" ""
-			(at 109.22 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0acfcceb-5636-4561-9b61-5f3eb692006e")
-		)
-		(pin "2"
-			(uuid "2b059d3d-cd1d-47ae-9bb5-61f04365d68a")
 		)
 		(pin "3"
-			(uuid "a14c5f0e-562d-49c8-8eef-cb302fb87a68")
+			(uuid "6499b9e8-22b6-4271-a6d4-cbe963169437")
 		)
 		(pin "4"
-			(uuid "bf142b9a-84f8-48d9-af55-6f373e7e9dff")
+			(uuid "6adec06b-9602-4ff4-9a7c-6474f299b931")
+		)
+		(pin "1"
+			(uuid "2cb3310a-cdfd-4bde-bbd2-61ec9a78678e")
+		)
+		(pin "2"
+			(uuid "79186a72-91a5-441a-b91d-c153bf24d621")
 		)
 		(instances
 			(project "stm32-bt-board"

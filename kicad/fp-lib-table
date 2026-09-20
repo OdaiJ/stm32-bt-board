@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "#stm32-bt-board-external-footprints") (type "KiCad") (uri "${KIPRJMOD}/#stm32-bt-board-external-footprints.pretty") (options "") (descr ""))
+)

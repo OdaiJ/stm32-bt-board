@@ -1372,7 +1372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm"
 			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1518,7 +1518,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm"
 			(at 156.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1830,7 +1830,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 164.7952 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -1967,7 +1967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 149.5552 135.89 0)
 			(hide yes)
 			(show_name no)
