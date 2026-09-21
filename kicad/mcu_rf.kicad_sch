@@ -1371,7 +1371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "#odaij_RF_Filter:TDK_DLF162500LT-5028A1"
+		(property "Footprint" "#stm32-bt-board-external-footprints:DLF162500LT-5028A1"
 			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
