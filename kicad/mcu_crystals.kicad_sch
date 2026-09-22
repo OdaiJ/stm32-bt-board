@@ -975,26 +975,16 @@
 		(uuid "f403b3bb-6af5-43f3-8d51-4f63af30b845")
 	)
 	(junction
-		(at 148.59 125.73)
+		(at 147.32 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "91ba5d47-00c7-4118-86a9-fe38b72f44c6")
+		(uuid "374769b3-e510-48ef-99f9-3253c79db578")
 	)
 	(junction
 		(at 163.83 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f73d7492-4eb4-489d-a5c5-1cacf4172aa3")
-	)
-	(wire
-		(pts
-			(xy 148.59 125.73) (xy 152.4 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fd169ad-4b47-4a24-89cc-5d2bb2599a6e")
 	)
 	(wire
 		(pts
@@ -1038,7 +1028,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 135.89) (xy 148.59 138.43)
+			(xy 147.32 135.89) (xy 147.32 138.43)
 		)
 		(stroke
 			(width 0)
@@ -1068,7 +1058,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 125.73) (xy 148.59 125.73)
+			(xy 143.51 125.73) (xy 147.32 125.73)
 		)
 		(stroke
 			(width 0)
@@ -1088,7 +1078,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 125.73) (xy 148.59 128.27)
+			(xy 147.32 125.73) (xy 147.32 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1098,13 +1088,23 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 125.73) (xy 140.97 125.73)
+			(xy 135.89 125.73) (xy 138.43 125.73)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d28a37f8-e4d5-4564-bd5e-225fe88062fe")
+	)
+	(wire
+		(pts
+			(xy 147.32 125.73) (xy 152.4 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deb1075a-056f-43e7-85d5-e380be39505e")
 	)
 	(polyline
 		(pts
@@ -1126,9 +1126,19 @@
 		)
 		(uuid "f9868282-4f68-441b-a063-c42d43f6be42")
 	)
+	(label "OSC_LSE_OUT_R"
+		(at 144.78 125.73 0)
+		(effects
+			(font
+				(size 0.6 0.6)
+			)
+			(justify left bottom)
+		)
+		(uuid "3e6ef778-e8ac-4b8c-8644-e8f96183711d")
+	)
 	(hierarchical_label "LSE_IN"
 		(shape input)
-		(at 138.43 125.73 180)
+		(at 135.89 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1172,7 +1182,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 138.43 0)
+		(at 147.32 138.43 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1183,7 +1193,7 @@
 		(fields_autoplaced yes)
 		(uuid "131a0828-4378-44f5-8a8c-ad670dbce927")
 		(property "Reference" "#PWR09"
-			(at 148.59 144.78 0)
+			(at 147.32 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1194,7 +1204,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 148.59 143.51 0)
+			(at 147.32 143.51 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1205,7 +1215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 138.43 0)
+			(at 147.32 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1216,7 +1226,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 138.43 0)
+			(at 147.32 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1227,7 +1237,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 138.43 0)
+			(at 147.32 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1935,7 +1945,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 148.59 132.08 0)
+		(at 147.32 132.08 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1946,7 +1956,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1d19221-9258-471e-b2e0-344b948e0b9a")
 		(property "Reference" "C14"
-			(at 152.4 130.8099 0)
+			(at 151.13 130.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1957,7 +1967,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 152.4 133.3499 0)
+			(at 151.13 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1968,7 +1978,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 149.5552 135.89 0)
+			(at 148.2852 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1979,7 +1989,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1990,7 +2000,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2001,7 +2011,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2012,7 +2022,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2023,7 +2033,7 @@
 			)
 		)
 		(property "Distributor Link" ""
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2034,7 +2044,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2045,7 +2055,7 @@
 			)
 		)
 		(property "Distributor" ""
-			(at 148.59 132.08 0)
+			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2072,7 +2082,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 143.51 125.73 90)
+		(at 140.97 125.73 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2083,7 +2093,7 @@
 		(fields_autoplaced yes)
 		(uuid "efaee41c-c92b-47c9-b81c-d51d810bf53a")
 		(property "Reference" "R2"
-			(at 143.51 120.65 90)
+			(at 140.97 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2093,7 +2103,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 143.51 123.19 90)
+			(at 140.97 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2103,7 +2113,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 143.51 125.73 0)
+			(at 140.97 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2114,7 +2124,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 125.73 0)
+			(at 140.97 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2125,7 +2135,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 143.51 125.73 0)
+			(at 140.97 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2136,7 +2146,7 @@
 			)
 		)
 		(property "Distributor" ""
-			(at 143.51 125.73 90)
+			(at 140.97 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
