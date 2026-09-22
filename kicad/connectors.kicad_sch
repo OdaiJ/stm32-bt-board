@@ -150,7 +150,7 @@
 		)
 		(uuid "e656dcc1-26af-4e5e-bd6b-6436f8669e4f")
 	)
-	(hierarchical_label "SWDIO"
+	(hierarchical_label "SWD_SWDIO"
 		(shape bidirectional)
 		(at 121.92 86.36 180)
 		(effects
@@ -183,7 +183,7 @@
 		)
 		(uuid "7f62a199-0f94-4346-9e5b-c5b1f650cc3e")
 	)
-	(hierarchical_label "SWNRST"
+	(hierarchical_label "SWD_NRST"
 		(shape output)
 		(at 175.26 96.52 0)
 		(effects
@@ -205,7 +205,7 @@
 		)
 		(uuid "92077f31-36d4-4d61-a848-d7edf5f0e9ea")
 	)
-	(hierarchical_label "SWCLK"
+	(hierarchical_label "SWD_SWCLK"
 		(shape output)
 		(at 175.26 93.98 0)
 		(effects
@@ -227,7 +227,7 @@
 		)
 		(uuid "aa6865f5-e430-47d6-bc10-65396566dc85")
 	)
-	(hierarchical_label "SWO"
+	(hierarchical_label "SWD_SWO"
 		(shape input)
 		(at 121.92 88.9 180)
 		(effects
@@ -418,7 +418,7 @@
 				(justify left top)
 			)
 		)
-		(pin "SWCLK" output
+		(pin "SWD_SWCLK" output
 			(at 167.64 93.98 0)
 			(uuid "636a56c8-cd72-4a2d-8c06-f4f39bb691d4")
 			(effects
@@ -429,7 +429,7 @@
 				(justify right)
 			)
 		)
-		(pin "SWDIO" bidirectional
+		(pin "SWD_SWDIO" bidirectional
 			(at 129.54 86.36 180)
 			(uuid "ca1a6304-8c3b-4a9f-bf34-c0382990094c")
 			(effects
@@ -440,7 +440,7 @@
 				(justify left)
 			)
 		)
-		(pin "SWO" input
+		(pin "SWD_SWO" input
 			(at 129.54 88.9 180)
 			(uuid "ded28e5d-8cc6-4634-8683-95e64c58cf31")
 			(effects
@@ -451,7 +451,7 @@
 				(justify left)
 			)
 		)
-		(pin "SWNRST" output
+		(pin "SWD_NRST" output
 			(at 167.64 96.52 0)
 			(uuid "9b83d719-b619-4b98-a074-df9ab9329dbb")
 			(effects

@@ -773,7 +773,7 @@
 		)
 		(uuid "e64a1683-1932-4145-921c-32271e36152d")
 	)
-	(hierarchical_label "SWCLK"
+	(hierarchical_label "SWD_SWCLK"
 		(shape output)
 		(at 172.72 101.6 0)
 		(effects
@@ -784,7 +784,7 @@
 		)
 		(uuid "00b4d529-19e4-430f-84ea-856f1d402024")
 	)
-	(hierarchical_label "SWNRST"
+	(hierarchical_label "SWD_NRST"
 		(shape output)
 		(at 172.72 96.52 0)
 		(effects
@@ -795,7 +795,7 @@
 		)
 		(uuid "2868fefb-ad6c-4a57-918c-ec4497624835")
 	)
-	(hierarchical_label "SWO"
+	(hierarchical_label "SWD_SWO"
 		(shape input)
 		(at 172.72 106.68 0)
 		(effects
@@ -806,7 +806,7 @@
 		)
 		(uuid "3eff0df1-0cb4-477b-88ce-218a027b1556")
 	)
-	(hierarchical_label "SWDIO"
+	(hierarchical_label "SWD_SWDIO"
 		(shape bidirectional)
 		(at 172.72 104.14 0)
 		(effects
