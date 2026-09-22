@@ -1528,7 +1528,7 @@
 	)
 	(text "switch can be used\nas a user switch\nafter boot"
 		(exclude_from_sim no)
-		(at 170.18 96.774 0)
+		(at 173.99 96.52 0)
 		(effects
 			(font
 				(size 0.5 0.5)
@@ -4161,7 +4161,7 @@
 	)
 	(symbol
 		(lib_id "#stm32-bt-board-external-symbols:B3U-1000P")
-		(at 161.29 97.79 90)
+		(at 161.29 97.79 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4172,29 +4172,29 @@
 		(fields_autoplaced yes)
 		(uuid "fec45675-ad7e-49e0-8a75-c6ef92ff59a6")
 		(property "Reference" "SW1"
-			(at 162.56 96.5199 90)
+			(at 165.1 96.5199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "B3U-1000P"
-			(at 162.56 99.0599 90)
+			(at 165.1 99.0599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "#stm32-bt-board-external-footprints:B3U-1000P"
-			(at 156.21 97.79 0)
+			(at 166.37 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4205,7 +4205,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C231329.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTllXUlNQR1dcUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFBXUFJeQ08GEwkK"
-			(at 156.21 97.79 0)
+			(at 166.37 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
