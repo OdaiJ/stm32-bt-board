@@ -163,7 +163,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.25,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.15,
         "min_via_annular_width": 0.2,
         "min_via_diameter": 0.65,
@@ -254,16 +254,20 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.7,
+          "diameter": 0.65,
           "drill": 0.2
         },
         {
-          "diameter": 0.8,
+          "diameter": 0.75,
           "drill": 0.3
         },
         {
-          "diameter": 0.9,
+          "diameter": 0.85,
           "drill": 0.4
+        },
+        {
+          "diameter": 0.95,
+          "drill": 0.5
         }
       ],
       "zones_allow_external_fillets": false
@@ -544,8 +548,8 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "via_diameter": 0.65,
+        "via_drill": 0.2,
         "wire_width": 6
       },
       {

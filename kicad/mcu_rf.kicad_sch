@@ -945,7 +945,7 @@
 		)
 		(uuid "66b50768-e84e-48bd-bfe1-87d7ac2f6474")
 	)
-	(text "layout: careful layout needed?"
+	(text "layout: careful layout needed?\nanswer: yes"
 		(exclude_from_sim no)
 		(at 101.6 115.062 0)
 		(effects
