@@ -3316,6 +3316,52 @@
 		)
 	)
 	(sheet
+		(at 132.08 148.59)
+		(size 33.02 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 20 20 19 1)
+		)
+		(uuid "08a32dfe-6483-49c5-90a3-c2c845fc6749")
+		(property "Sheetname" "Mechanical"
+			(at 132.08 147.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mechanical.kicad_sch"
+			(at 132.08 187.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "stm32-bt-board"
+				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 46.355 91.44)
 		(size 38.1 50.8)
 		(exclude_from_sim no)

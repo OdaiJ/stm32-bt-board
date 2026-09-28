@@ -40,7 +40,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.6096,
-          "height": 1.98374,
+          "height": 2.43078,
           "width": 1.08966
         },
         "silk_line_width": 0.1,
@@ -217,6 +217,7 @@
       "track_widths": [
         0.0,
         0.15,
+        0.1537,
         0.2,
         0.3,
         0.5,
@@ -535,7 +536,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.19,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -546,7 +547,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.15,
         "tuning_profile": "",
         "via_diameter": 0.65,
         "via_drill": 0.2,
@@ -969,7 +970,7 @@
         "uuid": "9ab97115-0b3b-4897-8d44-f79e27c270d1"
       }
     ],
-    "used_designators": "Q1,J1",
+    "used_designators": "FID1-6,Q1,J1,H1-4,#PWR41",
     "variants": []
   },
   "sheets": [
@@ -1020,6 +1021,10 @@
     [
       "361c8e35-3db7-4e84-96f3-a18e08b55d73",
       "UART"
+    ],
+    [
+      "08a32dfe-6483-49c5-90a3-c2c845fc6749",
+      "Mechanical"
     ]
   ],
   "text_variables": {},
