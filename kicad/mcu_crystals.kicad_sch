@@ -895,6 +895,19 @@
 			(embedded_fonts no)
 		)
 	)
+	(bezier
+		(pts
+			(xy 232.41 137.16) (xy 248.92 137.16) (xy 247.65 133.35) (xy 247.65 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "63762343-8337-4114-b72d-021b4b184254")
+	)
 	(rectangle
 		(start 124.46 58.42)
 		(end 185.42 146.05)
@@ -954,6 +967,38 @@
 		)
 		(uuid "8a9687af-1d2f-4947-b2fa-4d8726e46647")
 	)
+	(text "Page 14"
+		(exclude_from_sim no)
+		(at 256.286 134.366 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8e4c0438-74c4-4b93-8cbc-f1e88595e31e")
+	)
+	(text "AN5165\nHow to develop RF hardware using STM32WB MCUs\n"
+		(exclude_from_sim no)
+		(at 256.54 130.302 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(href "https://www.st.com/resource/en/application_note/an5165-how-to-develop-rf-hardware-using-stm32wb-microcontrollers-stmicroelectronics.pdf")
+		)
+		(uuid "b55b918e-6379-48c6-880a-57ec711fdc9b")
+	)
+	(text "There's an equation to calculate\na starting value for C14 and C15.\nBut I am too lazy to do that right now.\nAlso, the reference design chose 10pF,\nso I might as well go for it too.\nAnd after all, this is just a starting point,\nand it can be tuned later in the lab."
+		(exclude_from_sim no)
+		(at 188.468 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d387ae35-6297-4c95-b1f8-f76d23e1e1a0")
+	)
 	(text "this can be\n(tuned?) during\nthe testing phase\nin shaa' Allah"
 		(exclude_from_sim no)
 		(at 139.7 86.36 0)
@@ -995,6 +1040,26 @@
 			(type default)
 		)
 		(uuid "15d77ce5-813c-449b-a345-12def785ae40")
+	)
+	(polyline
+		(pts
+			(xy 247.65 133.35) (xy 248.285 133.985)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30b90a84-708e-4a1f-8121-99d6525a7704")
+	)
+	(polyline
+		(pts
+			(xy 247.015 133.985) (xy 247.65 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f48b2d5-1be6-4475-b2c4-defcd1b3b7bb")
 	)
 	(wire
 		(pts
@@ -1312,7 +1377,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C190119.pdf"
 			(at 140.97 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1323,7 +1388,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 0Ω 62.5mW 0402"
 			(at 140.97 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -1334,7 +1399,40 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 140.97 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
+			(at 140.97 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW04020000Z0ED"
+			(at 140.97 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "VISHAY"
 			(at 140.97 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -1861,7 +1959,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C161520.pdf"
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -1872,7 +1970,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10pF 50V C0G 0402"
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -1905,7 +2003,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C161520.html"
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -1916,7 +2014,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "muRata"
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -1927,7 +2025,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 163.83 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1555C1H100FA01D"
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -1998,7 +2107,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C161520.pdf"
 			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2009,7 +2118,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 10pF 50V C0G 0402"
 			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2042,7 +2151,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C161520.html"
 			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2053,7 +2162,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "muRata"
 			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2064,7 +2173,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 147.32 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM1555C1H100FA01D"
 			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2133,7 +2253,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C190119.pdf"
 			(at 140.97 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -2144,7 +2264,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 0Ω 62.5mW 0402"
 			(at 140.97 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -2155,7 +2275,40 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 140.97 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
+			(at 140.97 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW04020000Z0ED"
+			(at 140.97 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "VISHAY"
 			(at 140.97 125.73 90)
 			(hide yes)
 			(show_name no)

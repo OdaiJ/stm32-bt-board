@@ -638,7 +638,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C3911026.pdf"
 			(at 124.46 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -649,7 +649,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FIXED IND 10nH 500mA 190mΩ 0402"
 			(at 124.46 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -682,7 +682,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3911026.html?s_z=s_p_LQG15WZ10NJ02D"
 			(at 124.46 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -693,7 +693,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "muRata"
 			(at 124.46 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -704,7 +704,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 124.46 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQG15WZ10NJ02D"
 			(at 124.46 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -921,7 +932,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C162582.pdf"
 			(at 143.51 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -932,7 +943,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FIXED IND 10uH 100mA 390mΩ 0805"
 			(at 143.51 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -965,7 +976,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C162582.html?s_z=n_q_LQM21FN100M80"
 			(at 143.51 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -976,7 +987,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "muRata"
 			(at 143.51 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -987,7 +998,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 143.51 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LQM21FN100M80L"
 			(at 143.51 93.98 90)
 			(hide yes)
 			(show_name no)

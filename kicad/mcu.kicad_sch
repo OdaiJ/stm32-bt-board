@@ -2561,7 +2561,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://mou.sr/4AjC6F3"
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C911135.html?s_z=s_p_STM32WB55CEU6"
 			(at 151.13 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -2583,7 +2583,7 @@
 				)
 			)
 		)
-		(property "Distributor" "Mouser"
+		(property "Distributor" "LCSC"
 			(at 151.13 115.57 0)
 			(hide yes)
 			(show_name no)

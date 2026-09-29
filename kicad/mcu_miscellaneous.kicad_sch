@@ -2253,7 +2253,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C105872.pdf"
 			(at 184.15 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2264,7 +2264,7 @@
 				)
 			)
 		)
-		(property "Description" "-- mixed values --"
+		(property "Description" "RES 5.1kΩ ±1% 62.5mW 0402"
 			(at 184.15 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2297,7 +2297,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
 			(at 184.15 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2308,7 +2308,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 184.15 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2319,7 +2319,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 184.15 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
 			(at 184.15 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2387,7 +2398,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C105872.pdf"
 			(at 83.82 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -2398,7 +2409,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 5.1kΩ ±1% 62.5mW 0402"
+			(at 83.82 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 83.82 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
+			(at 83.82 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
+			(at 83.82 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 83.82 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -2469,7 +2524,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C190119.pdf"
 			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2480,7 +2535,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 0Ω 62.5mW 0402"
 			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2513,7 +2568,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
 			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2524,7 +2579,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "VISHAY"
 			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2535,7 +2590,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 95.25 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW04020000Z0ED"
 			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2682,7 +2748,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2909336.pdf"
 			(at 165.1 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2693,7 +2759,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 220Ω ±1% 62.5mW 0402"
 			(at 165.1 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -2726,7 +2792,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C2909336.html"
 			(at 165.1 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -2737,7 +2803,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FOJAN"
 			(at 165.1 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -2748,7 +2814,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 165.1 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FRC0402F2200TS"
 			(at 165.1 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -3285,7 +3362,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60491.pdf"
 			(at 250.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3296,7 +3373,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100kΩ ±1% 62.5mW 0402"
 			(at 250.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3307,7 +3384,40 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 250.19 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60491.html"
+			(at 250.19 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-07100KL"
+			(at 250.19 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 250.19 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -4122,7 +4232,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C105872.pdf"
 			(at 73.66 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -4133,8 +4243,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 5.1kΩ ±1% 62.5mW 0402"
 			(at 73.66 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor" "LCSC"
+			(at 73.66 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
+			(at 73.66 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
+			(at 73.66 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 73.66 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

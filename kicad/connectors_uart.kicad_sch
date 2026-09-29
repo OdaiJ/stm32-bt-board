@@ -1994,7 +1994,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2909336.pdf"
 			(at 179.07 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2005,7 +2005,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 220Ω ±1% 62.5mW 0402"
 			(at 179.07 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -2038,7 +2038,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C2909336.html"
 			(at 179.07 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -2049,7 +2049,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FOJAN"
 			(at 179.07 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -2060,7 +2060,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 179.07 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FRC0402F2200TS"
 			(at 179.07 101.6 90)
 			(hide yes)
 			(show_name no)
@@ -2310,6 +2321,39 @@
 				)
 			)
 		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C157926.html?s_z=s_p_S4B-PH-K-S%28LF%29%28SN%29"
+			(at 109.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "S4B-PH-K-S(LF)(SN)"
+			(at 109.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "JST"
+			(at 109.22 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "6499b9e8-22b6-4271-a6d4-cbe963169437")
 		)
@@ -2373,7 +2417,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2909336.pdf"
 			(at 179.07 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2384,7 +2428,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 220Ω ±1% 62.5mW 0402"
 			(at 179.07 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -2417,7 +2461,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C2909336.html"
 			(at 179.07 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -2428,7 +2472,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "FOJAN"
 			(at 179.07 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -2439,7 +2483,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 179.07 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "FRC0402F2200TS"
 			(at 179.07 104.14 90)
 			(hide yes)
 			(show_name no)

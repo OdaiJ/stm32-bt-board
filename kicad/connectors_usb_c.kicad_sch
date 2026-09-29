@@ -2308,7 +2308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C105872.pdf"
 			(at 162.56 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2319,7 +2319,7 @@
 				)
 			)
 		)
-		(property "Description" "-- mixed values --"
+		(property "Description" "RES 5.1kΩ ±1% 62.5mW 0402"
 			(at 162.56 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -2352,7 +2352,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
 			(at 162.56 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -2363,7 +2363,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 162.56 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -2374,7 +2374,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 162.56 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
 			(at 162.56 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -2948,6 +2959,39 @@
 				)
 			)
 		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3197684.html?s_z=s_p_x_2171790001"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "2171790001"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "MOLEX"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "B7"
 			(uuid "308db787-6a28-4a3b-aa17-742316015eff")
 		)
@@ -3050,7 +3094,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C105872.pdf"
 			(at 162.56 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3061,7 +3105,7 @@
 				)
 			)
 		)
-		(property "Description" "-- mixed values --"
+		(property "Description" "RES 5.1kΩ ±1% 62.5mW 0402"
 			(at 162.56 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3094,7 +3138,7 @@
 				)
 			)
 		)
-		(property "Distributor Link" ""
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
 			(at 162.56 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -3105,7 +3149,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 162.56 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -3116,7 +3160,18 @@
 				)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "LCSC"
+			(at 162.56 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
 			(at 162.56 81.28 90)
 			(hide yes)
 			(show_name no)

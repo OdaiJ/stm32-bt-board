@@ -1626,7 +1626,7 @@
 				)
 			)
 		)
-		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+		(property "Description" "CONN RCPT IPEX 50Ω SMD"
 			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1638,6 +1638,39 @@
 			)
 		)
 		(property "Distributor" "LCSC"
+			(at 180.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C392444.html?s_z=s_p_1909763-1"
+			(at 180.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1909763-1"
+			(at 180.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TE Connectivity"
 			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)

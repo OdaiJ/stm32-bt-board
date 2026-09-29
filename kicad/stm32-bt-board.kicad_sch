@@ -1849,7 +1849,7 @@
 		)
 		(uuid "8b3821af-7009-449c-bfb5-1558f8ae736b")
 	)
-	(text "TODO:\n- verify footprints\n- finish page setup (A4, title, github repo link)\n- table of contents? block diagram? feeling fancy\n- 3V3_UART, and 3V3_SWD along with 0 ohm resistors for better netnames?"
+	(text "TODO:\n- finish page setup (A4, title, github repo link)\n- refine root schematic\n- table of contents? block diagram? feeling fancy\n- 3V3_UART, and 3V3_SWD along with 0 ohm resistors for better netnames?"
 		(exclude_from_sim no)
 		(at 25.4 53.34 0)
 		(effects
