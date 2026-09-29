@@ -5517,46 +5517,8 @@
 		(path "/0a80a0b7-1ddb-45a8-8bbe-9c16ffb72728/c2feafe3-3b01-47cd-90f7-3df5f000a0f3/c89b6f9c-a07a-49c0-bc07-419aa9dd155f")
 		(sheetname "/Connectors/USB Type C/")
 		(sheetfile "connectors_usb_c.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "SH" "A1" "A12" "B1" "B12" "A4" "A9" "B4" "B9" "A5" "B5" "A7" "B7"
-					"A6" "B6" "A8" "B8"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -4.5974 3.5052)
-			(end 4.5974 3.5052)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "699efc4d-7dcd-4993-b7c2-1b72e5af63df")
-		)
-		(fp_line
-			(start 4.5974 3.5052)
-			(end 4.5974 2.661593)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b93474aa-166c-4d00-9824-0a41663a4899")
-		)
-		(fp_line
-			(start -4.5974 2.661593)
-			(end -4.5974 3.5052)
-			(stroke
-				(width 0.1524)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "063c32d7-16ee-4e17-8640-061bb5fde235")
-		)
 		(fp_line
 			(start 4.5974 -0.117991)
 			(end 4.5974 -1.541608)
