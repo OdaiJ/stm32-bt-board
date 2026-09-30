@@ -2561,17 +2561,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C911135.html?s_z=s_p_STM32WB55CEU6"
-			(at 151.13 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "ST"
 			(at 151.13 115.57 0)
 			(hide yes)
@@ -2595,6 +2584,28 @@
 			)
 		)
 		(property "MPN" "STM32WB55CEU6"
+			(at 151.13 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C911135"
+			(at 151.13 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C911135.html"
 			(at 151.13 115.57 0)
 			(hide yes)
 			(show_name no)

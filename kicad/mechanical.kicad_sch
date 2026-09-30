@@ -586,6 +586,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 194.31 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/08a32dfe-6483-49c5-90a3-c2c845fc6749"
@@ -653,6 +664,17 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
+			(at 176.53 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 176.53 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -740,6 +762,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 176.53 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/08a32dfe-6483-49c5-90a3-c2c845fc6749"
@@ -807,6 +840,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 128.27 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 128.27 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -976,6 +1020,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 185.42 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/08a32dfe-6483-49c5-90a3-c2c845fc6749"
@@ -1043,6 +1098,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 113.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 113.03 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -1133,6 +1199,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 185.42 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "stm32-bt-board"
 				(path "/9ab97115-0b3b-4897-8d44-f79e27c270d1/08a32dfe-6483-49c5-90a3-c2c845fc6749"
@@ -1200,6 +1277,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 120.65 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 120.65 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -1290,6 +1378,17 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #" ""
+			(at 105.41 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7ab7d8c2-4410-492e-9513-12a905fb423b")
 		)
@@ -1360,6 +1459,17 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
+			(at 194.31 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 194.31 110.49 0)
 			(hide yes)
 			(show_name no)

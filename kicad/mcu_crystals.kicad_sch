@@ -1410,17 +1410,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
-			(at 140.97 80.01 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "MPN" "CRCW04020000Z0ED"
 			(at 140.97 80.01 90)
 			(hide yes)
@@ -1433,6 +1422,28 @@
 			)
 		)
 		(property "Manufacturer" "VISHAY"
+			(at 140.97 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C190119"
+			(at 140.97 80.01 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
 			(at 140.97 80.01 90)
 			(hide yes)
 			(show_name no)
@@ -1545,17 +1556,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C891748.html?s_z=s_p_NX2012SA-32.768KHZ-STD-MUB-2&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcXlVQRFddVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRFBXUFJeQ08GEwkK"
-			(at 156.21 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "NDK"
 			(at 156.21 125.73 0)
 			(hide yes)
@@ -1579,6 +1579,28 @@
 			)
 		)
 		(property "MPN" "NX2012SA-32.768KHZ-STD-MUB-2"
+			(at 156.21 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C891748"
+			(at 156.21 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C891748.html"
 			(at 156.21 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -1691,17 +1713,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/crystals_ndk-nx2016sa-32mhz-exs00a-cs06654_C5441424.html"
-			(at 156.21 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "NDK"
 			(at 156.21 80.01 0)
 			(hide yes)
@@ -1725,6 +1736,28 @@
 			)
 		)
 		(property "MPN" "NX2016SA-32MHZ-EXS00A-CS06654"
+			(at 156.21 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C5441424"
+			(at 156.21 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C5441424.html"
 			(at 156.21 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2003,17 +2036,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C161520.html"
-			(at 163.83 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 163.83 132.08 0)
 			(hide yes)
@@ -2037,6 +2059,28 @@
 			)
 		)
 		(property "MPN" "GRM1555C1H100FA01D"
+			(at 163.83 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C161520"
+			(at 163.83 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C161520.html"
 			(at 163.83 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2151,17 +2195,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C161520.html"
-			(at 147.32 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 147.32 132.08 0)
 			(hide yes)
@@ -2185,6 +2218,28 @@
 			)
 		)
 		(property "MPN" "GRM1555C1H100FA01D"
+			(at 147.32 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C161520"
+			(at 147.32 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C161520.html"
 			(at 147.32 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -2286,17 +2341,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
-			(at 140.97 125.73 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "MPN" "CRCW04020000Z0ED"
 			(at 140.97 125.73 90)
 			(hide yes)
@@ -2309,6 +2353,28 @@
 			)
 		)
 		(property "Manufacturer" "VISHAY"
+			(at 140.97 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C190119"
+			(at 140.97 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C190119.html"
 			(at 140.97 125.73 90)
 			(hide yes)
 			(show_name no)

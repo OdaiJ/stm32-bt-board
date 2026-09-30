@@ -2195,17 +2195,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C7519.html?s_z=s_p_USBLC6-2SC6&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTlddV1JTQlFfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVNYV11eWQkaCgg%3D"
-			(at 172.72 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "ST"
 			(at 172.72 88.9 0)
 			(hide yes)
@@ -2229,6 +2218,28 @@
 			)
 		)
 		(property "MPN" "USBLC6-2SC6"
+			(at 172.72 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C7519"
+			(at 172.72 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C7519.html"
 			(at 172.72 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2352,17 +2363,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
-			(at 162.56 78.74 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "YAGEO"
 			(at 162.56 78.74 90)
 			(hide yes)
@@ -2386,6 +2386,28 @@
 			)
 		)
 		(property "MPN" "RC0402FR-075K1L"
+			(at 162.56 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C105872"
+			(at 162.56 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
 			(at 162.56 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -2959,17 +2981,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3197684.html?s_z=s_p_x_2171790001"
-			(at 127 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "MPN" "2171790001"
 			(at 127 88.9 0)
 			(hide yes)
@@ -2982,6 +2993,28 @@
 			)
 		)
 		(property "Manufacturer" "MOLEX"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C3197684"
+			(at 127 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3197684.html"
 			(at 127 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3138,17 +3171,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
-			(at 162.56 81.28 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "YAGEO"
 			(at 162.56 81.28 90)
 			(hide yes)
@@ -3172,6 +3194,28 @@
 			)
 		)
 		(property "MPN" "RC0402FR-075K1L"
+			(at 162.56 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C105872"
+			(at 162.56 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C105872.html"
 			(at 162.56 81.28 90)
 			(hide yes)
 			(show_name no)

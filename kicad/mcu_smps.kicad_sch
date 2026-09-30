@@ -682,17 +682,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3911026.html?s_z=s_p_LQG15WZ10NJ02D"
-			(at 124.46 93.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 124.46 93.98 90)
 			(hide yes)
@@ -716,6 +705,28 @@
 			)
 		)
 		(property "MPN" "LQG15WZ10NJ02D"
+			(at 124.46 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C3911026"
+			(at 124.46 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C3911026.html"
 			(at 124.46 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -830,17 +841,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C307467.html?spm=wm.fly.bg.5.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1VVRFlfUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlNdUVVXWQkaCgg%3D"
-			(at 158.75 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 158.75 99.06 0)
 			(hide yes)
@@ -864,6 +864,28 @@
 			)
 		)
 		(property "MPN" "CL10A475KL8NRNC"
+			(at 158.75 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C307467"
+			(at 158.75 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C307467.html"
 			(at 158.75 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -976,17 +998,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C162582.html?s_z=n_q_LQM21FN100M80"
-			(at 143.51 93.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 143.51 93.98 90)
 			(hide yes)
@@ -1010,6 +1021,28 @@
 			)
 		)
 		(property "MPN" "LQM21FN100M80L"
+			(at 143.51 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C162582"
+			(at 143.51 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C162582.html"
 			(at 143.51 93.98 90)
 			(hide yes)
 			(show_name no)

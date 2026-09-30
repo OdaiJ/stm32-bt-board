@@ -1426,17 +1426,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C531364.html?s_z=s_p_DLF162500LT-5028A1&spm=wm.fly.bg.0.xh&lcsc_vid=RlRYUFFURFcNVFIDFVMMXgZSRlJeUABSQVNfAwJfQwIxVlNeTldcX1JQQVRbVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVldVVFfWQkaCgg%3D"
-			(at 154.94 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "TDK"
 			(at 154.94 93.98 0)
 			(hide yes)
@@ -1460,6 +1449,28 @@
 			)
 		)
 		(property "MPN" "DLF162500LT-5028A1"
+			(at 154.94 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C531364"
+			(at 154.94 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C531364.html"
 			(at 154.94 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1648,17 +1659,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C392444.html?s_z=s_p_1909763-1"
-			(at 180.34 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "MPN" "1909763-1"
 			(at 180.34 93.98 0)
 			(hide yes)
@@ -1671,6 +1671,28 @@
 			)
 		)
 		(property "Manufacturer" "TE Connectivity"
+			(at 180.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C392444"
+			(at 180.34 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C392444.html"
 			(at 180.34 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -1788,17 +1810,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C76988.html?s_z=s_p_GRM1555C1HR80BA01D&spm=wm.fly.bg.0.xh&lcsc_vid=RFZeBFxfRgVYUFRXRFhXUVRVQQJeUAdXQ1FaBAZQEgAxVlNRTlheXldWQlFYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
-			(at 106.68 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 106.68 97.79 0)
 			(hide yes)
@@ -1822,6 +1833,28 @@
 			)
 		)
 		(property "MPN" "GRM1555C1HR80BA01D"
+			(at 106.68 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C76988"
+			(at 106.68 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C76988.html"
 			(at 106.68 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2015,17 +2048,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C92338.html?s_z=s_p_GRM1555C1HR30WA01D&spm=wm.fly.bg.0.xh&lcsc_vid=RFZeBFxfRgVYUFRXRFhXUVRVQQJeUAdXQ1FaBAZQEgAxVlNRTlheXldQT1JbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
-			(at 124.46 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 124.46 97.79 0)
 			(hide yes)
@@ -2049,6 +2071,28 @@
 			)
 		)
 		(property "MPN" "GRM1555C1HR30WA01D"
+			(at 124.46 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C92338"
+			(at 124.46 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C92338.html"
 			(at 124.46 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -2161,17 +2205,6 @@
 				)
 			)
 		)
-		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77108.html?s_z=s_p_LQG15HS2N7S02D&spm=wm.fly.bg.0.xh&lcsc_vid=RFZeBFxfRgVYUFRXRFhXUVRVQQJeUAdXQ1FaBAZQEgAxVlNRTlheXlBXRFFfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
-			(at 115.57 93.98 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "muRata"
 			(at 115.57 93.98 90)
 			(hide yes)
@@ -2195,6 +2228,28 @@
 			)
 		)
 		(property "MPN" "LQG15HS2N7S02D"
+			(at 115.57 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C77108"
+			(at 115.57 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77108.html"
 			(at 115.57 93.98 90)
 			(hide yes)
 			(show_name no)
