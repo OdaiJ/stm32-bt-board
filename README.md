@@ -11,6 +11,12 @@ This board was designed according to Phil's Lab's amazing videos on YouTube.
 
 Click here to view it on [![kicanvas.org](https://img.shields.io/badge/kicanvas.org-8864CB)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FOdaiJ%2Fstm32-bt-board%2Fblob%2Fmain%2Fkicad%2Fstm32-bt-board.kicad_pro)
 
+## Todos
+
+1. More careful choice of components for BOM; as the MOQ is too high for most components as of now.
+
 ## Notes
 
 Assembly PDFs are broken - KiCad won't export them correctly for some reason.
+
+Also, as of now, I had to manually edit the CPL file so JLCPCB doesn't cry about it. P.S.: I do NOT recommend using the the JLCPCB Fabrication Tool KiCad plugin; because it didn't work for me - but that was probably my fault though.
